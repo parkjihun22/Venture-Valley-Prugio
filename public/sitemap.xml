@@ -54,7 +54,7 @@
 
   <!-- 오피스텔분양광고 -->
   <url>
-    <loc>https://tradexmeds.com/Office/sales</loc>
+    <loc>https://tradexmeds.com/SalesInfo/stampTax</loc>
     <lastmod>2025-09-01T00:00:00+09:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
@@ -62,7 +62,7 @@
 
   <!-- 입지안내 -->
   <url>
-    <loc>https://tradexmeds.com/Location/intro</loc>
+    <loc>https://tradexmeds.com/LocationEnvironment/intro</loc>
     <lastmod>2025-09-01T00:00:00+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -70,7 +70,7 @@
 
   <!-- 프리미엄 -->
   <url>
-    <loc>https://tradexmeds.com/Location/premium</loc>
+    <loc>https://tradexmeds.com/LocationEnvironment/premium</loc>
     <lastmod>2025-09-01T00:00:00+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -78,7 +78,7 @@
 
   <!-- 단지배치도 -->
   <url>
-    <loc>https://tradexmeds.com/Complex/intro</loc>
+    <loc>https://tradexmeds.com/ComplexGuide/intro</loc>
     <lastmod>2025-09-01T00:00:00+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -86,7 +86,7 @@
 
   <!-- 호수배치도 -->
   <url>
-    <loc>https://tradexmeds.com/Complex/detailintro</loc>
+    <loc>https://tradexmeds.com/ComplexGuide/detailintro</loc>
     <lastmod>2025-09-01T00:00:00+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -94,7 +94,7 @@
 
   <!-- 커뮤니티 -->
   <url>
-    <loc>https://tradexmeds.com/Complex/community</loc>
+    <loc>https://tradexmeds.com/ComplexGuide/community</loc>
     <lastmod>2025-09-01T00:00:00+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -136,7 +136,7 @@
 
   <!-- 인테리어 -->
   <url>
-    <loc>https://tradexmeds.com/Interior/84</loc>
+    <loc>https://tradexmeds.com/Interior/59A</loc>
     <lastmod>2025-09-01T00:00:00+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>

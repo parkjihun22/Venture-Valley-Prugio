@@ -14,10 +14,10 @@ import Ready from "../../components/Ready/Ready";
 
 const ComplexGuide1 = () => {
   const menuContents = [
-    { title: "청약방법안내", url: "/SalesInfo/SubscriptionGuide" },
-    { title: "청약안내문", url: "/SalesInfo/guide" },
+    // { title: "청약방법안내", url: "/SalesInfo/SubscriptionGuide" },
+    // { title: "청약안내문", url: "/SalesInfo/guide" },
     { title: "모집공고안내", url: "/SalesInfo/announcement" },
-    { title: "인지세납부안내", url: "/SalesInfo/stampTax" },
+    { title: "오피스텔분양광고", url: "/SalesInfo/stampTax" },
   ];
 
   const [isScroll, setIsScroll] = useState(false);
@@ -53,10 +53,10 @@ const ComplexGuide1 = () => {
     <div className={styles.container}>
 
       <Helmet>
-        <title>밴처밸리 푸르지오 - 인지세 납부 안내</title>
+        <title>밴처밸리 푸르지오 -오피스텔분양광고</title>
         <meta
           name="description"
-          content="대구 동구 신천동 밴처밸리 푸르지오 분양계약 시 필요한 인지세 납부 기준과 절차, 비용 및 유의사항을 한눈에 확인하세요."
+          content="대구 동구 신천동 밴처밸리 푸르지오 분양계약 시 필요한 오피스텔 분양 광고를 한눈에 확인하세요."
         />
         <link
           rel="canonical"
@@ -74,12 +74,13 @@ const ComplexGuide1 = () => {
       <MenuBar contents={menuContents} />
       {/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
       <h1 className={styles.screenReaderOnly}>
-        벤처밸리 푸르지오- 인지세안내
+        벤처밸리 푸르지오- 오피스텔분양광고
       </h1>
+
       <p className={styles.screenReaderOnly}>
-        벤처밸리 푸르지오의 인지세 안내 페이지는 분양과 관련된 세금
-        정보를 제공합니다. 인지세는 계약서 작성 시 부과되는 세금으로, 이를
-        사전에 파악하고 준비하는 것이 중요합니다. 이 페이지에서는 인지세의 계산
+        벤처밸리 푸르지오의 오피스텔분양광고 안내 페이지는 분양과 관련된 세금
+        정보를 제공합니다.오피스텔분양광고는 계약서 작성 시 부과되는 세금으로, 이를
+        사전에 파악하고 준비하는 것이 중요합니다. 이 페이지에서는오피스텔분양광고의 계산
         방법, 세액, 납부 절차 등을 쉽게 설명하여 고객들이 정확하게 준비할 수
         있도록 돕습니다.
       </p>
@@ -93,8 +94,9 @@ const ComplexGuide1 = () => {
       {/* <img
         className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
         src={page1}
-        alt="벤처밸리 푸르지오인지세안내-image1"
-        onLoad={handleImageLoad}  // 이미지 로드 후 애니메이션 실행
+        alt="벤처밸리 푸르지오오피스텔부-image1"
+        onLoad={handleImageLoad}  // 이
+        // 미지 로드 후 애니메이션 실행
       /> */}
 
       <Ready/>

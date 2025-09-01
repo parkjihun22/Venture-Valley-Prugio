@@ -14,10 +14,10 @@ import Ready from "../../components/Ready/Ready";
 
 const ComplexGuide1 = () => {
   const menuContents = [
-    { title: "청약방법안내", url: "/SalesInfo/SubscriptionGuide" },
-    { title: "청약안내문", url: "/SalesInfo/guide" },
+    // { title: "청약방법안내", url: "/SalesInfo/SubscriptionGuide" },
+    // { title: "청약안내문", url: "/SalesInfo/guide" },
     { title: "모집공고안내", url: "/SalesInfo/announcement" },
-    { title: "인지세납부안내", url: "/SalesInfo/stampTax" },
+    { title: "오피스텔분양광고", url: "/SalesInfo/stampTax" },
   ];
 
   const [isScroll, setIsScroll] = useState(false);

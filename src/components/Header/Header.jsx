@@ -29,12 +29,12 @@ const menuArray = [
     ],
   },
   {
-    title: "청약안내",
+    title: "분양안내",
     subMenu: [
-      { subTitle: "청약방법안내", subUrl: "/SalesInfo/SubscriptionGuide" },
-      { subTitle: "청약안내문", subUrl: "/SalesInfo/guide" },
+      // { subTitle: "청약방법안내", subUrl: "/SalesInfo/SubscriptionGuide" },
+      // { subTitle: "청약안내문", subUrl: "/SalesInfo/guide" },
       { subTitle: "모집공고안내", subUrl: "/SalesInfo/announcement" },
-      { subTitle: "인지세납부안내", subUrl: "/SalesInfo/stampTax" },
+      { subTitle: "오피스텔분양광고", subUrl: "/SalesInfo/stampTax" },
     ],
   },
   {

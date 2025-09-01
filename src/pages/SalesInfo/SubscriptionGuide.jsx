@@ -16,10 +16,10 @@ import Ready from "../../components/Ready/Ready";
 
 const ComplexGuide1 = () => {
   const menuContents = [
-    { title: "청약방법안내", url: "/SalesInfo/SubscriptionGuide" },
-    { title: "청약안내문", url: "/SalesInfo/guide" },
+    // { title: "청약방법안내", url: "/SalesInfo/SubscriptionGuide" },
+    // { title: "청약안내문", url: "/SalesInfo/guide" },
     { title: "모집공고안내", url: "/SalesInfo/announcement" },
-    { title: "인지세납부안내", url: "/SalesInfo/stampTax" },
+    { title: "오피스텔분양광고", url: "/SalesInfo/stampTax" },
   ];
 
   const [isScroll, setIsScroll] = useState(false);
@@ -54,7 +54,7 @@ const ComplexGuide1 = () => {
   return (
     <div className={styles.container}>
         <Helmet>
-          <title>밴처밸리 푸르지오 - 청약방법 안내</title>
+          <title>밴처밸리 푸르지오 - 오피스텔분양광고</title>
           <meta
             name="description"
             content="대구 동구 신천동 밴처밸리 푸르지오 청약방법을 확인하세요. 청약 자격, 신청 절차, 준비서류 및 유의사항을 상세히 안내합니다."
@@ -70,15 +70,15 @@ const ComplexGuide1 = () => {
       <Header isChanged={isScroll} />
       <FixIcon />
 
-      <Bener title="체크포인트" />
+      <Bener title="청약안내" />
 
       <MenuBar contents={menuContents} />
       {/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
       <h1 className={styles.screenReaderOnly}>
-        벤처밸리 푸르지오- 체크포인트
+        벤처밸리 푸르지오- 오피스텔 분양광고
       </h1>
       <p className={styles.screenReaderOnly}>
-        벤처밸리 푸르지오분양 전 필수 체크포인트를 확인하세요. 청약
+        벤처밸리 푸르지오 분양 전 필수 오피스텔 분양광고를 확인하세요. 청약
         자격, 서류 준비, 일정 등 분양 절차에서 놓치지 말아야 할 중요한 사항들을
         정리해두었습니다. 정확한 정보와 절차를 통해 분양을 성공적으로 진행할 수
         있도록 돕습니다.

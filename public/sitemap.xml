@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+  <!-- 홈페이지 -->
+  <url>
+    <loc>https://tradexmeds.com/</loc>
+    <lastmod>2025-09-01T00:00:00+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- 모바일 방문예약 -->
+  <url>
+    <loc>https://tradexmeds.com/Promotion/Customer</loc>
+    <lastmod>2025-09-01T00:00:00+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- 브랜드소개 -->
+  <url>
+    <loc>https://tradexmeds.com/Brand/intro</loc>
+    <lastmod>2025-09-01T00:00:00+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- 홍보영상 -->
+  <url>
+    <loc>https://tradexmeds.com/Brand/video</loc>
+    <lastmod>2025-09-01T00:00:00+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- 사업안내 -->
+  <url>
+    <loc>https://tradexmeds.com/BusinessGuide/intro</loc>
+    <lastmod>2025-09-01T00:00:00+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- 입주자모집공고 -->
+  <url>
+    <loc>https://tradexmeds.com/SalesInfo/announcement</loc>
+    <lastmod>2025-09-01T00:00:00+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- 오피스텔분양광고 -->
+  <url>
+    <loc>https://tradexmeds.com/Office/sales</loc>
+    <lastmod>2025-09-01T00:00:00+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- 입지안내 -->
+  <url>
+    <loc>https://tradexmeds.com/Location/intro</loc>
+    <lastmod>2025-09-01T00:00:00+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- 프리미엄 -->
+  <url>
+    <loc>https://tradexmeds.com/Location/premium</loc>
+    <lastmod>2025-09-01T00:00:00+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- 단지배치도 -->
+  <url>
+    <loc>https://tradexmeds.com/Complex/intro</loc>
+    <lastmod>2025-09-01T00:00:00+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- 호수배치도 -->
+  <url>
+    <loc>https://tradexmeds.com/Complex/detailintro</loc>
+    <lastmod>2025-09-01T00:00:00+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- 커뮤니티 -->
+  <url>
+    <loc>https://tradexmeds.com/Complex/community</loc>
+    <lastmod>2025-09-01T00:00:00+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- 평면도: 84A/84B/84C/840A -->
+  <url>
+    <loc>https://tradexmeds.com/FloorPlan/59A</loc>
+    <lastmod>2025-09-01T00:00:00+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tradexmeds.com/FloorPlan/59B</loc>
+    <lastmod>2025-09-01T00:00:00+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tradexmeds.com/FloorPlan/84A</loc>
+    <lastmod>2025-09-01T00:00:00+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tradexmeds.com/FloorPlan/84B</loc>
+    <lastmod>2025-09-01T00:00:00+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- E-모델하우스 -->
+  <url>
+    <loc>https://tradexmeds.com/FloorPlan/Emodel</loc>
+    <lastmod>2025-09-01T00:00:00+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- 인테리어 -->
+  <url>
+    <loc>https://tradexmeds.com/Interior/84</loc>
+    <lastmod>2025-09-01T00:00:00+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- 언론보도 -->
+  <url>
+    <loc>https://tradexmeds.com/벤처밸리푸르지오/press</loc>
+    <lastmod>2025-09-01T00:00:00+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- 관심고객등록 -->
+  <url>
+    <loc>https://tradexmeds.com/Promotion/Customer</loc>
+    <lastmod>2025-09-01T00:00:00+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+</urlset>

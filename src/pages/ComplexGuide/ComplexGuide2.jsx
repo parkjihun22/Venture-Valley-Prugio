@@ -57,7 +57,7 @@ const ComplexGuide1 = () => {
           name="description"
           content="대구 동구 신천동 밴처밸리 푸르지오 호수배치도를 통해 세대별 위치와 전망, 일조 방향, 프라이버시를 고려한 설계를 확인하세요."
         />
-        <link rel="canonical" href="https://tradexmeds.com/ComplexGuide/detailintro" />
+        <link rel="canonical" href="https://www.a7lashare.com/ComplexGuide/detailintro" />
         <meta name="robots" content="index,follow" />
 
         {/* Open Graph */}
@@ -68,8 +68,8 @@ const ComplexGuide1 = () => {
           property="og:description"
           content="밴처밸리 푸르지오 호수배치도: 세대별 위치, 전망, 일조, 프라이버시를 고려한 동·호수 설계를 한눈에 확인하세요."
         />
-        <meta property="og:url" content="https://tradexmeds.com/ComplexGuide/detailintro" />
-        <meta property="og:image" content="https://tradexmeds.com/img/og/complex.jpg" />
+        <meta property="og:url" content="https://www.a7lashare.com/ComplexGuide/detailintro" />
+        <meta property="og:image" content="https://www.a7lashare.com/img/og/complex.jpg" />
       </Helmet>
 
 

@@ -79,7 +79,7 @@ const ComplexGuide1 = () => {
         />
         <link
           rel="canonical"
-          href="https://tradexmeds.com/SalesInfo/announcement"
+          href="https://www.a7lashare.com/SalesInfo/announcement"
         />
         <meta name="robots" content="index,follow" />
       </Helmet>

@@ -58,7 +58,7 @@ const ComplexGuide1 = () => {
 					content="대구 동구 신천동 밴처밸리 푸르지오 단지배치도를 통해 각 동의 위치, 조경, 커뮤니티 시설 및 주차·동선 설계를 확인하세요. 입주민 생활 편의와 쾌적한 환경을 고려한 최적의 배치를 안내합니다."
 				/>
 				<meta name="robots" content="index,follow" />
-				<link rel="canonical" href="https://tradexmeds.com/ComplexGuide/intro" />
+				<link rel="canonical" href="https://www.a7lashare.com/ComplexGuide/intro" />
 
 				{/* Open Graph */}
 				<meta property="og:type" content="website" />
@@ -68,8 +68,8 @@ const ComplexGuide1 = () => {
 					property="og:description"
 					content="밴처밸리 푸르지오 단지배치도: 각 동의 위치, 조경과 커뮤니티, 주차·동선까지 생활 편의를 고려한 최적 설계."
 				/>
-				<meta property="og:url" content="https://tradexmeds.com/ComplexGuide/intro" />
-				<meta property="og:image" content="https://tradexmeds.com/img/og/complex.jpg" />
+				<meta property="og:url" content="https://www.a7lashare.com/ComplexGuide/intro" />
+				<meta property="og:image" content="https://www.a7lashare.com/img/og/complex.jpg" />
 				<meta property="og:image:width" content="1200" />
 				<meta property="og:image:height" content="630" />
 
@@ -80,8 +80,8 @@ const ComplexGuide1 = () => {
 					name="twitter:description"
 					content="대구 동구 신천동 밴처밸리 푸르지오 단지배치도: 조경·커뮤니티·주차·동선까지 입주민 생활 편의를 고려한 설계를 확인하세요."
 				/>
-				<meta name="twitter:image" content="https://tradexmeds.com/img/og/complex.jpg" />
-				<meta name="twitter:url" content="https://tradexmeds.com/ComplexGuide/intro" />
+				<meta name="twitter:image" content="https://www.a7lashare.com/img/og/complex.jpg" />
+				<meta name="twitter:url" content="https://www.a7lashare.com/ComplexGuide/intro" />
 
 				{/* JSON-LD */}
 				<script type="application/ld+json">
@@ -89,20 +89,20 @@ const ComplexGuide1 = () => {
 					"@context": "https://schema.org",
 					"@type": "WebPage",
 					"name": "밴처밸리 푸르지오 - 단지배치도",
-					"url": "https://tradexmeds.com/ComplexGuide/intro",
+					"url": "https://www.a7lashare.com/ComplexGuide/intro",
 					"description":
 						"대구 동구 신천동 밴처밸리 푸르지오 단지배치도: 각 동의 위치, 조경, 커뮤니티 시설, 주차·동선 설계를 확인하세요.",
 					"primaryImageOfPage": {
 						"@type": "ImageObject",
-						"contentUrl": "https://tradexmeds.com/img/og/complex.jpg",
+						"contentUrl": "https://www.a7lashare.com/img/og/complex.jpg",
 						"width": 1200,
 						"height": 630
 					},
 					"breadcrumb": {
 						"@type": "BreadcrumbList",
 						"itemListElement": [
-						{ "@type": "ListItem", "position": 1, "name": "홈", "item": "https://tradexmeds.com/" },
-						{ "@type": "ListItem", "position": 2, "name": "단지배치도", "item": "https://tradexmeds.com/ComplexGuide/intro" }
+						{ "@type": "ListItem", "position": 1, "name": "홈", "item": "https://www.a7lashare.com/" },
+						{ "@type": "ListItem", "position": 2, "name": "단지배치도", "item": "https://www.a7lashare.com/ComplexGuide/intro" }
 						]
 					}
 					})}

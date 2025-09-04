@@ -51,7 +51,7 @@ const LocationEnvironment1 = () => {
           name="description"
           content="대구 동구 신천동 밴처밸리 푸르지오 프리미엄을 확인하세요. 동대구역 복합환승센터·도시철도 4호선(트램 예정), 신천 수변공원·수성못, 신설 초·중학교(초품아), 풍부한 생활·문화 인프라의 가치를 안내합니다."
         />
-        <link rel="canonical" href="https://tradexmeds.com/LocationEnvironment/primium" />
+        <link rel="canonical" href="https://www.a7lashare.com/LocationEnvironment/primium" />
         <meta name="robots" content="index,follow" />
       </Helmet>
 

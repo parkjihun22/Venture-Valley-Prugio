@@ -61,7 +61,7 @@ const ComplexGuide1 = () => {
           />
           <link
             rel="canonical"
-            href="https://tradexmeds.com/SalesInfo/SubscriptionGuide"
+            href="https://www.a7lashare.com/SalesInfo/SubscriptionGuide"
           />
           <meta name="robots" content="index,follow" />
         </Helmet>

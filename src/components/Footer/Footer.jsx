@@ -11,7 +11,7 @@ import InterestPopup from "../InterestPopup/InterestPopup";
 
 // FAMILY SITE 목록 예시
 const partnerSites = [
-  { name: "벤처밸리 푸르지오", url: "https://tradexmeds.com/" },
+  { name: "벤처밸리 푸르지오", url: "https://www.a7lashare.com/" },
 ];
 
 const Footer = () => {

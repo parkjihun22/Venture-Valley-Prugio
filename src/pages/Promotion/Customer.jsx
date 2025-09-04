@@ -75,7 +75,7 @@ export default function Customer() {
             <meta name="robots" content="index,follow" />
             <link
               rel="canonical"
-              href="https://tradexmeds.com/Promotion/Customer"
+              href="https://www.a7lashare.com/Promotion/Customer"
             />
 
             {/* Open Graph */}
@@ -88,11 +88,11 @@ export default function Customer() {
             />
             <meta
               property="og:url"
-              content="https://tradexmeds.com/Promotion/Customer"
+              content="https://www.a7lashare.com/Promotion/Customer"
             />
             <meta
               property="og:image"
-              content="https://tradexmeds.com/img/og/customer.jpg"
+              content="https://www.a7lashare.com/img/og/customer.jpg"
             />
             <meta property="og:image:width" content="1200" />
             <meta property="og:image:height" content="630" />
@@ -106,11 +106,11 @@ export default function Customer() {
             />
             <meta
               name="twitter:image"
-              content="https://tradexmeds.com/img/og/customer.jpg"
+              content="https://www.a7lashare.com/img/og/customer.jpg"
             />
             <meta
               name="twitter:url"
-              content="https://tradexmeds.com/Promotion/Customer"
+              content="https://www.a7lashare.com/Promotion/Customer"
             />
 
             {/* JSON-LD (대표 이미지/브레드크럼 포함) */}
@@ -119,13 +119,13 @@ export default function Customer() {
                 "@context": "https://schema.org",
                 "@type": "WebPage",
                 "name": "밴처밸리 푸르지오 - 관심고객등록",
-                "url": "https://tradexmeds.com/Promotion/Customer",
+                "url": "https://www.a7lashare.com/Promotion/Customer",
                 "description":
                   "대구 동구 신천동 밴처밸리 푸르지오 관심고객 등록 시 모델하우스 방문예약, 위치 및 현장정보를 사전에 안내받으실 수 있습니다.",
                 "primaryImageOfPage": {
                   "@type": "ImageObject",
                   "contentUrl":
-                    "https://tradexmeds.com/img/og/customer.jpg",
+                    "https://www.a7lashare.com/img/og/customer.jpg",
                   "width": 1200,
                   "height": 630,
                 },
@@ -136,14 +136,14 @@ export default function Customer() {
                       "@type": "ListItem",
                       "position": 1,
                       "name": "홈",
-                      "item": "https://tradexmeds.com/",
+                      "item": "https://www.a7lashare.com/",
                     },
                     {
                       "@type": "ListItem",
                       "position": 2,
                       "name": "관심고객등록",
                       "item":
-                        "https://tradexmeds.com/Promotion/Customer",
+                        "https://www.a7lashare.com/Promotion/Customer",
                     },
                   ],
                 },

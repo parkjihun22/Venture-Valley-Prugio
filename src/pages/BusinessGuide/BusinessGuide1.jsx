@@ -70,7 +70,7 @@ const BusinessGuide1 = () => {
 					content="대구 동구 신천동 밴처밸리 푸르지오 사업 개요와 입지를 확인하세요. 아파트 540세대와 주거형 오피스텔 56실, 동대구역 생활권의 미래가치를 안내합니다."
 				/>
 				<meta name="robots" content="index,follow" />
-				<link rel="canonical" href="https://tradexmeds.com/BusinessGuide/intro" />
+				<link rel="canonical" href="https://www.a7lashare.com/BusinessGuide/intro" />
 
 				{/* Open Graph */}
 				<meta property="og:type" content="website" />
@@ -80,8 +80,8 @@ const BusinessGuide1 = () => {
 					property="og:description"
 					content="밴처밸리 푸르지오 사업 개요: 아파트 540세대, 오피스텔 56실, 지하 5층 ~ 지상 33층 규모. 대구 동구 신천동 동대구역 생활권의 핵심 입지."
 				/>
-				<meta property="og:url" content="https://tradexmeds.com/BusinessGuide/intro" />
-				<meta property="og:image" content="https://tradexmeds.com/img/og/business.jpg" />
+				<meta property="og:url" content="https://www.a7lashare.com/BusinessGuide/intro" />
+				<meta property="og:image" content="https://www.a7lashare.com/img/og/business.jpg" />
 				<meta property="og:image:width" content="1200" />
 				<meta property="og:image:height" content="630" />
 
@@ -92,8 +92,8 @@ const BusinessGuide1 = () => {
 					name="twitter:description"
 					content="밴처밸리 푸르지오 사업 개요와 입지 정보: 아파트 540세대, 오피스텔 56실, 동대구역 생활권의 프리미엄 가치를 확인하세요."
 				/>
-				<meta name="twitter:image" content="https://tradexmeds.com/img/og/business.jpg" />
-				<meta name="twitter:url" content="https://tradexmeds.com/BusinessGuide/intro" />
+				<meta name="twitter:image" content="https://www.a7lashare.com/img/og/business.jpg" />
+				<meta name="twitter:url" content="https://www.a7lashare.com/BusinessGuide/intro" />
 
 				{/* JSON-LD (대표 이미지/브레드크럼 포함) */}
 				<script type="application/ld+json">
@@ -101,20 +101,20 @@ const BusinessGuide1 = () => {
 					"@context": "https://schema.org",
 					"@type": "WebPage",
 					"name": "밴처밸리 푸르지오 - 사업안내",
-					"url": "https://tradexmeds.com/BusinessGuide/intro",
+					"url": "https://www.a7lashare.com/BusinessGuide/intro",
 					"description":
 						"대구 동구 신천동 밴처밸리 푸르지오 사업 개요와 입지 정보. 아파트 540세대, 오피스텔 56실, 지하 5층~지상 33층 규모로 조성되는 주거 랜드마크.",
 					"primaryImageOfPage": {
 						"@type": "ImageObject",
-						"contentUrl": "https://tradexmeds.com/img/og/business.jpg",
+						"contentUrl": "https://www.a7lashare.com/img/og/business.jpg",
 						"width": 1200,
 						"height": 630
 					},
 					"breadcrumb": {
 						"@type": "BreadcrumbList",
 						"itemListElement": [
-						{ "@type": "ListItem", "position": 1, "name": "홈", "item": "https://tradexmeds.com/" },
-						{ "@type": "ListItem", "position": 2, "name": "사업안내", "item": "https://tradexmeds.com/BusinessGuide/intro" }
+						{ "@type": "ListItem", "position": 1, "name": "홈", "item": "https://www.a7lashare.com/" },
+						{ "@type": "ListItem", "position": 2, "name": "사업안내", "item": "https://www.a7lashare.com/BusinessGuide/intro" }
 						]
 					}
 					})}

@@ -72,7 +72,7 @@ const BusinessGuide2 = () => {
 				<meta name="robots" content="index,follow" />
 				<link
 					rel="canonical"
-					href="https://tradexmeds.com/BusinessGuide/documents"
+					href="https://www.a7lashare.com/BusinessGuide/documents"
 				/>
 
 				{/* Open Graph */}
@@ -83,8 +83,8 @@ const BusinessGuide2 = () => {
 					property="og:description"
 					content="밴처밸리 푸르지오 계약서류 안내: 분양 계약 시 필요한 신분증, 주민등록등본, 인감증명서 등 제출서류와 절차, 유의사항을 확인하세요."
 				/>
-				<meta property="og:url" content="https://tradexmeds.com/BusinessGuide/documents" />
-				<meta property="og:image" content="https://tradexmeds.com/img/og/documents.jpg" />
+				<meta property="og:url" content="https://www.a7lashare.com/BusinessGuide/documents" />
+				<meta property="og:image" content="https://www.a7lashare.com/img/og/documents.jpg" />
 				<meta property="og:image:width" content="1200" />
 				<meta property="og:image:height" content="630" />
 
@@ -95,8 +95,8 @@ const BusinessGuide2 = () => {
 					name="twitter:description"
 					content="밴처밸리 푸르지오 분양 계약에 필요한 필수 제출서류와 준비 절차, 유의사항을 빠르게 확인하세요."
 				/>
-				<meta name="twitter:image" content="https://tradexmeds.com/img/og/documents.jpg" />
-				<meta name="twitter:url" content="https://tradexmeds.com/BusinessGuide/documents" />
+				<meta name="twitter:image" content="https://www.a7lashare.com/img/og/documents.jpg" />
+				<meta name="twitter:url" content="https://www.a7lashare.com/BusinessGuide/documents" />
 				</Helmet>
 
 

@@ -99,7 +99,7 @@ const LocationEnvironment1 = () => {
           content="대구 동구 신천동 핵심 입지, 밴처밸리 푸르지오의 입지환경을 확인하세요. 동대구역 복합환승센터·도시철도 4호선(트램 예정), 신설 학교, 신천 수변공원·수성못 등 쾌적한 자연환경과 생활 인프라."
         />
         <meta name="robots" content="index,follow" />
-        <link rel="canonical" href="https://tradexmeds.com/LocationEnvironment/intro" />
+        <link rel="canonical" href="https://www.a7lashare.com/LocationEnvironment/intro" />
 
         {/* Open Graph */}
         <meta property="og:type" content="website" />
@@ -109,8 +109,8 @@ const LocationEnvironment1 = () => {
           property="og:description"
           content="대구 동구 신천동 핵심 입지, 밴처밸리 푸르지오의 입지환경을 확인하세요. 동대구역·도시철도 4호선(트램 예정), 신설 학교, 신천 수변공원·수성못 등 생활 인프라와 자연환경을 누리는 핵심 입지."
         />
-        <meta property="og:url" content="https://tradexmeds.com/LocationEnvironment/intro" />
-        <meta property="og:image" content="https://tradexmeds.com/img/og/location.jpg" />
+        <meta property="og:url" content="https://www.a7lashare.com/LocationEnvironment/intro" />
+        <meta property="og:image" content="https://www.a7lashare.com/img/og/location.jpg" />
         <meta property="og:image:width" content="1200" />
         <meta property="og:image:height" content="630" />
 
@@ -121,8 +121,8 @@ const LocationEnvironment1 = () => {
           name="twitter:description"
           content="대구 동구 신천동 핵심 입지, 동대구역 복합환승센터·도시철도 4호선(트램 예정) 교통망, 신설 학교, 신천 수변공원·수성못 인접으로 생활과 자연을 동시에 누리는 입지환경."
         />
-        <meta name="twitter:image" content="https://tradexmeds.com/img/og/location.jpg" />
-        <meta name="twitter:url" content="https://tradexmeds.com/LocationEnvironment/intro" />
+        <meta name="twitter:image" content="https://www.a7lashare.com/img/og/location.jpg" />
+        <meta name="twitter:url" content="https://www.a7lashare.com/LocationEnvironment/intro" />
 
         {/* JSON-LD (대표 이미지/브레드크럼 포함) */}
         <script type="application/ld+json">
@@ -130,20 +130,20 @@ const LocationEnvironment1 = () => {
             "@context": "https://schema.org",
             "@type": "WebPage",
             "name": "밴처밸리 푸르지오 - 입지환경",
-            "url": "https://tradexmeds.com/LocationEnvironment/intro",
+            "url": "https://www.a7lashare.com/LocationEnvironment/intro",
             "description":
               "대구 동구 신천동 핵심 입지, 동대구역 복합환승센터·도시철도 4호선(트램 예정) 교통망, 신설 학교, 신천 수변공원·수성못 등 생활 인프라와 쾌적한 자연환경을 갖춘 밴처밸리 푸르지오 입지환경.",
             "primaryImageOfPage": {
               "@type": "ImageObject",
-              "contentUrl": "https://tradexmeds.com/img/og/location.jpg",
+              "contentUrl": "https://www.a7lashare.com/img/og/location.jpg",
               "width": 1200,
               "height": 630
             },
             "breadcrumb": {
               "@type": "BreadcrumbList",
               "itemListElement": [
-                { "@type": "ListItem", "position": 1, "name": "홈", "item": "https://tradexmeds.com/" },
-                { "@type": "ListItem", "position": 2, "name": "입지환경", "item": "https://tradexmeds.com/LocationEnvironment/intro" }
+                { "@type": "ListItem", "position": 1, "name": "홈", "item": "https://www.a7lashare.com/" },
+                { "@type": "ListItem", "position": 2, "name": "입지환경", "item": "https://www.a7lashare.com/LocationEnvironment/intro" }
               ]
             }
           })}

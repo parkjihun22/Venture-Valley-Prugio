@@ -60,7 +60,7 @@ const ComplexGuide1 = () => {
         />
         <link
           rel="canonical"
-          href="https://tradexmeds.com/SalesInfo/stampTax"
+          href="https://www.a7lashare.com/SalesInfo/stampTax"
         />
         <meta name="robots" content="index,follow" />
       </Helmet>

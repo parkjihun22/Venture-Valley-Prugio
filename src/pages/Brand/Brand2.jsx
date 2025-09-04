@@ -50,7 +50,7 @@ const Brand2 = () => {
 				name="description"
 				content="대구 동구 신천동 밴처밸리 푸르지오 홍보영상을 통해 세대 설계, 첨단 커뮤니티, 쾌적한 자연환경과 입지 프리미엄을 생생하게 확인하세요."
 			/>
-			<link rel="canonical" href="https://tradexmeds.com/Brand/video" />
+			<link rel="canonical" href="https://www.a7lashare.com/Brand/video" />
 			<meta name="robots" content="index,follow" />
 
 			{/* Open Graph */}
@@ -61,8 +61,8 @@ const Brand2 = () => {
 				property="og:description"
 				content="밴처밸리 푸르지오 홍보영상: 대구 동구 신천동 입지의 프리미엄, 고급 커뮤니티, 쾌적한 자연환경을 영상으로 확인하세요."
 			/>
-			<meta property="og:url" content="https://tradexmeds.com/Brand/video" />
-			<meta property="og:image" content="https://tradexmeds.com/img/og/video.jpg" />
+			<meta property="og:url" content="https://www.a7lashare.com/Brand/video" />
+			<meta property="og:image" content="https://www.a7lashare.com/img/og/video.jpg" />
 			<meta property="og:image:width" content="1200" />
 			<meta property="og:image:height" content="630" />
 
@@ -73,8 +73,8 @@ const Brand2 = () => {
 				name="twitter:description"
 				content="대구 동구 신천동 밴처밸리 푸르지오 홍보영상: 첨단 설계, 프리미엄 입지, 쾌적한 자연환경을 영상으로 만나보세요."
 			/>
-			<meta name="twitter:image" content="https://tradexmeds.com/img/og/video.jpg" />
-			<meta name="twitter:url" content="https://tradexmeds.com/Brand/video" />
+			<meta name="twitter:image" content="https://www.a7lashare.com/img/og/video.jpg" />
+			<meta name="twitter:url" content="https://www.a7lashare.com/Brand/video" />
 			</Helmet>
 
 

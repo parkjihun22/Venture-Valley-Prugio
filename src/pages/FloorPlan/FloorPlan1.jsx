@@ -10,9 +10,7 @@ import FixIcon from "../../components/FixIcon/FixIcon";
 import HelmetCOM from "../../components/HelmetCOM/HelmetCOM";
 import { Helmet } from "react-helmet-async";
 
-// import page1 from "../../assets/FloorPlan/FloorPlan1/page1.jpg"
-import Ready from "../../components/Ready/Ready";
-
+import page1 from "../../assets/FloorPlan/FloorPlan1/unit_84a.jpg"
 
 
 
@@ -21,7 +19,7 @@ const FloorPlan1 = () => {
 		{ title: "84A", url: "/FloorPlan/59A" },
 		{ title: "84B", url: "/FloorPlan/59B" },
 		{ title: "84C", url: "/FloorPlan/84A" },
-		{ title: "84D", url: "/FloorPlan/84B" },
+		{ title: "84OA", url: "/FloorPlan/84B" },
 		// { title: "84D", url: "/FloorPlan/114A" },
 		// { title: "세대안내영상", url: "/FloorPlan/videos" }, // 세대안내영상 링크
 		{ title: "E-모델하우스", url: "/FloorPlan/Emodel" },
@@ -73,14 +71,14 @@ const FloorPlan1 = () => {
       </div>
 
       {/* 이미지에 애니메이션 효과 추가 */}
-      {/* <img
+      <img
 				className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
 				src={page1}
 				alt="벤처밸리 푸르지오평면안내이미지1"
 				onLoad={handleImageLoad}  // 이미지 로드 후 애니메이션 실행
-			/> */}
+			/>
       
-        <Ready/>
+
 
    
 

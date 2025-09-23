@@ -9,7 +9,7 @@ import FixIcon from "../../components/FixIcon/FixIcon";
 import { Helmet } from "react-helmet-async";
 
 
-import page1 from "../../assets/ComplexGuide/ComplexGuide3/page1.jpg";
+import page1 from "../../assets/ComplexGuide/ComplexGuide3/lounge.jpg";
 
 
 

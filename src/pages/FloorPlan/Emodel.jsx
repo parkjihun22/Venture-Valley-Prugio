@@ -19,7 +19,7 @@ const Emodel = () => {
 
   const vrUrls = {
     "84A": "https://www.prugio.com/hb/2025/venturevalley/vr/tour1.html",
-    "84B": "https://www.prugio.com/hb/2025/venturevalley/vr/tour1.html",
+    "84B": "https://www.prugio.com/hb/2025/venturevalley/vr/tour2.html",
     // "84A": "https://www.prugio.com/hb/2025/onecluster/vr/84a.html",
     // "84B": "https://www.prugio.com/hb/2025/onecluster/vr/84b.html",
   };

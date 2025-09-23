@@ -4,9 +4,9 @@ import styles from "./DarkComplexSection.module.scss";
 // → 배경으로 쓸 이미지 import (잉여라면 지우셔도 됩니다)
 import bgImg from "../../assets/ComplexGuide/ComplexGuide1/bg-section.jpg";
 // → 탭에 들어갈 이미지 import
-import layoutImg    from "../../assets/ComplexGuide/ComplexGuide1/page1.webp";
-import designImg    from "../../assets/ComplexGuide/ComplexGuide2/page1.webp";
-import communityImg from "../../assets/ComplexGuide/ComplexGuide3/page1.jpg";
+import layoutImg    from "../../assets/ComplexGuide/ComplexGuide1/place.jpg";
+import designImg    from "../../assets/ComplexGuide/ComplexGuide2/architecture.jpg";
+import communityImg from "../../assets/ComplexGuide/ComplexGuide3/lounge.jpg";
 import bennerImg from "../../assets/ComplexGuide/ComplexGuide1/complex-1024x573.jpg";
 
 

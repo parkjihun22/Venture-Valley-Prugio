@@ -9,7 +9,7 @@ import FixIcon from "../../components/FixIcon/FixIcon";
 import { Helmet } from "react-helmet-async";
 
 
-import page1 from "../../assets/ComplexGuide/ComplexGuide1/page1.webp";
+import page1 from "../../assets/ComplexGuide/ComplexGuide1/place.jpg";
 
 
 
@@ -69,7 +69,7 @@ const ComplexGuide1 = () => {
 					content="밴처밸리 푸르지오 단지배치도: 각 동의 위치, 조경과 커뮤니티, 주차·동선까지 생활 편의를 고려한 최적 설계."
 				/>
 				<meta property="og:url" content="https://www.a7lashare.com/ComplexGuide/intro" />
-				<meta property="og:image" content="https://www.a7lashare.com/img/og/complex.jpg" />
+				<meta property="og:image" content="https://www.a7lashare.com/img/og/place.jpg" />
 				<meta property="og:image:width" content="1200" />
 				<meta property="og:image:height" content="630" />
 
@@ -80,7 +80,7 @@ const ComplexGuide1 = () => {
 					name="twitter:description"
 					content="대구 동구 신천동 밴처밸리 푸르지오 단지배치도: 조경·커뮤니티·주차·동선까지 입주민 생활 편의를 고려한 설계를 확인하세요."
 				/>
-				<meta name="twitter:image" content="https://www.a7lashare.com/img/og/complex.jpg" />
+				<meta name="twitter:image" content="https://www.a7lashare.com/img/og/place.jpg" />
 				<meta name="twitter:url" content="https://www.a7lashare.com/ComplexGuide/intro" />
 
 				{/* JSON-LD */}
@@ -94,7 +94,7 @@ const ComplexGuide1 = () => {
 						"대구 동구 신천동 밴처밸리 푸르지오 단지배치도: 각 동의 위치, 조경, 커뮤니티 시설, 주차·동선 설계를 확인하세요.",
 					"primaryImageOfPage": {
 						"@type": "ImageObject",
-						"contentUrl": "https://www.a7lashare.com/img/og/complex.jpg",
+						"contentUrl": "https://www.a7lashare.com/img/og/place.jpg",
 						"width": 1200,
 						"height": 630
 					},

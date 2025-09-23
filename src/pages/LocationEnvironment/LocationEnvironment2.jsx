@@ -10,7 +10,7 @@ import FixIcon from "../../components/FixIcon/FixIcon";
 import Ready from "../../components/Ready/Ready";
 import HelmetCOM from "../../components/HelmetCOM/HelmetCOM";
 import { Helmet } from "react-helmet-async";
-// import page1 from "../../assets/LocationEnvironment/LocationEnvironment2/page1.jpg";
+import page1 from "../../assets/LocationEnvironment/LocationEnvironment2/page1.jpg";
 
 
 const LocationEnvironment1 = () => {
@@ -76,12 +76,11 @@ const LocationEnvironment1 = () => {
         <div>밴처밸리 푸르지오의 새로운 자부심으로 찾아옵니다.</div>
       </div>
 
-      {/* <img
+      <img
         src={page1}
         className={styles.image3}
-        alt="벤처밸리 푸르지오-image1"
-      /> */}
-      <Ready/>
+        alt="벤처밸리 푸르지오 프리미엄 안내이미지1"
+      />
       <Footer />
     </div>
   );

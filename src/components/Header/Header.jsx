@@ -25,7 +25,7 @@ const menuArray = [
     title: "사업개요",
     subMenu: [
       { subTitle: "사업안내", subUrl: "/BusinessGuide/intro" },
-      { subTitle: "분양일정", subUrl: "/BusinessGuide/plan" },
+      // { subTitle: "분양일정", subUrl: "/BusinessGuide/plan" },
     ],
   },
   {
@@ -34,7 +34,7 @@ const menuArray = [
       // { subTitle: "청약방법안내", subUrl: "/SalesInfo/SubscriptionGuide" },
       // { subTitle: "청약안내문", subUrl: "/SalesInfo/guide" },
       { subTitle: "모집공고안내", subUrl: "/SalesInfo/announcement" },
-      { subTitle: "오피스텔분양광고", subUrl: "/SalesInfo/stampTax" },
+      // { subTitle: "오피스텔분양광고", subUrl: "/SalesInfo/stampTax" },
     ],
   },
   {

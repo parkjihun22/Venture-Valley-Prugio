@@ -263,7 +263,7 @@ const Main = () => {
                 <div className={styles.mainImageText}>평택가 기다린 미래 프리미엄</div>
                 <div className={styles.mainImageLine}></div>
                 <div className={styles.mainImageText}>
-                  밴처밸리 푸르지오
+                  브레인시티 비스타동원
                 </div>
                 <button
                   onClick={() => setIsInterestPopupOpen(true)}
@@ -592,7 +592,7 @@ const Main = () => {
             </div>
             <div className={styles.mainImageTitleBox1}>
               <div className={styles.mainImageText1}>
-                밴처밸리 푸르지오
+                브레인시티 비스타동원
                 </div>
               </div>
             </div>

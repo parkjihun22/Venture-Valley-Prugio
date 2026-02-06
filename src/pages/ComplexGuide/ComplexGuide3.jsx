@@ -51,21 +51,21 @@ const ComplexGuide3 = () => {
   return (
     <div className={styles.container}>
       <Helmet>
-        <title>밴처밸리 푸르지오 - 커뮤니티</title>
+        <title>브레인시티 비스타동원 - 커뮤니티</title>
         <meta
           name="description"
-          content="평택 동구 신천동 밴처밸리 푸르지오 커뮤니티 시설을 소개합니다. 피트니스센터, 독서실, 카페, 어린이집, 게스트하우스 등 입주민의 생활 품격을 높이는 다양한 편의시설을 만나보세요."
+          content="평택 동구 신천동 브레인시티 비스타동원 커뮤니티 시설을 소개합니다. 피트니스센터, 독서실, 카페, 어린이집, 게스트하우스 등 입주민의 생활 품격을 높이는 다양한 편의시설을 만나보세요."
         />
         <link rel="canonical" href="https://www.a7lashare.com/ComplexGuide/community" />
         <meta name="robots" content="index,follow" />
 
         {/* Open Graph */}
         <meta property="og:type" content="website" />
-        <meta property="og:site_name" content="밴처밸리 푸르지오" />
-        <meta property="og:title" content="밴처밸리 푸르지오 - 커뮤니티" />
+        <meta property="og:site_name" content="브레인시티 비스타동원" />
+        <meta property="og:title" content="브레인시티 비스타동원 - 커뮤니티" />
         <meta
           property="og:description"
-          content="밴처밸리 푸르지오 커뮤니티 시설: 피트니스센터, 독서실, 카페, 어린이집, 게스트하우스 등 입주민을 위한 다양한 생활 편의시설."
+          content="브레인시티 비스타동원 커뮤니티 시설: 피트니스센터, 독서실, 카페, 어린이집, 게스트하우스 등 입주민을 위한 다양한 생활 편의시설."
         />
         <meta property="og:url" content="https://www.a7lashare.com/ComplexGuide/community" />
         <meta property="og:image" content="https://www.a7lashare.com/img/og/complex.jpg" />

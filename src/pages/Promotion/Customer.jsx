@@ -67,10 +67,10 @@ export default function Customer() {
     <>
           <Helmet>
             {/* 페이지별 메타: title/description/og/canonical 만 관리 */}
-            <title>밴처밸리 푸르지오 - 관심고객등록</title>
+            <title>브레인시티 비스타동원 - 관심고객등록</title>
             <meta
               name="description"
-              content="평택 동구 신천동 밴처밸리 푸르지오 관심고객 등록 시 모델하우스 방문예약, 위치 및 현장정보를 사전에 안내받으실 수 있습니다."
+              content="평택 동구 신천동 브레인시티 비스타동원 관심고객 등록 시 모델하우스 방문예약, 위치 및 현장정보를 사전에 안내받으실 수 있습니다."
             />
             <meta name="robots" content="index,follow" />
             <link
@@ -80,11 +80,11 @@ export default function Customer() {
 
             {/* Open Graph */}
             <meta property="og:type" content="website" />
-            <meta property="og:site_name" content="밴처밸리 푸르지오" />
-            <meta property="og:title" content="밴처밸리 푸르지오 - 관심고객등록" />
+            <meta property="og:site_name" content="브레인시티 비스타동원" />
+            <meta property="og:title" content="브레인시티 비스타동원 - 관심고객등록" />
             <meta
               property="og:description"
-              content="평택 동구 신천동 밴처밸리 푸르지오 관심고객 등록 시 모델하우스 방문예약, 위치 및 현장정보를 사전에 안내받으실 수 있습니다."
+              content="평택 동구 신천동 브레인시티 비스타동원 관심고객 등록 시 모델하우스 방문예약, 위치 및 현장정보를 사전에 안내받으실 수 있습니다."
             />
             <meta
               property="og:url"
@@ -99,10 +99,10 @@ export default function Customer() {
 
             {/* Twitter */}
             <meta name="twitter:card" content="summary_large_image" />
-            <meta name="twitter:title" content="밴처밸리 푸르지오 - 관심고객등록" />
+            <meta name="twitter:title" content="브레인시티 비스타동원 - 관심고객등록" />
             <meta
               name="twitter:description"
-              content="평택 동구 신천동 밴처밸리 푸르지오 관심고객 등록 시 모델하우스 방문예약, 위치 및 현장정보를 사전에 안내받으실 수 있습니다."
+              content="평택 동구 신천동 브레인시티 비스타동원 관심고객 등록 시 모델하우스 방문예약, 위치 및 현장정보를 사전에 안내받으실 수 있습니다."
             />
             <meta
               name="twitter:image"
@@ -118,10 +118,10 @@ export default function Customer() {
               {JSON.stringify({
                 "@context": "https://schema.org",
                 "@type": "WebPage",
-                "name": "밴처밸리 푸르지오 - 관심고객등록",
+                "name": "브레인시티 비스타동원 - 관심고객등록",
                 "url": "https://www.a7lashare.com/Promotion/Customer",
                 "description":
-                  "평택 동구 신천동 밴처밸리 푸르지오 관심고객 등록 시 모델하우스 방문예약, 위치 및 현장정보를 사전에 안내받으실 수 있습니다.",
+                  "평택 동구 신천동 브레인시티 비스타동원 관심고객 등록 시 모델하우스 방문예약, 위치 및 현장정보를 사전에 안내받으실 수 있습니다.",
                 "primaryImageOfPage": {
                   "@type": "ImageObject",
                   "contentUrl":

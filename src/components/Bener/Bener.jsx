@@ -40,7 +40,7 @@ const Bener = ({ title }) => {
 export default Bener;
 
 const contents = (text, isLoaded) => {
-    if (text === '밴처밸리 푸르지오' || text === '홍보영상' || text === '체크포인트' || text === '당첨자서류안내') {
+    if (text === '브레인시티 비스타동원' || text === '홍보영상' || text === '체크포인트' || text === '당첨자서류안내') {
         return (
             <>
                 <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
@@ -50,7 +50,7 @@ const contents = (text, isLoaded) => {
                     평택 동구 신천동, 평택역 인접의 새로운 주거 기준.
                 </div>
                 <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
-                    NO.1 브랜드, 밴처밸리 푸르지오와 함께합니다.
+                    NO.1 브랜드, 브레인시티 비스타동원와 함께합니다.
                 </div>
             </>
         );
@@ -58,7 +58,7 @@ const contents = (text, isLoaded) => {
         return (
             <>
                 <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
-                    신천동의 새 출발, 밴처밸리 푸르지오.
+                    신천동의 새 출발, 브레인시티 비스타동원.
                 </div>
                 <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
                     평택역, 4호선 트램(예정) 교통망으로 더 가까워지는 생활권.
@@ -67,7 +67,7 @@ const contents = (text, isLoaded) => {
                     브랜드 명성과 함께 높여가는 일상의 가치.
                 </div>
                 <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
-                    밴처밸리 푸르지오
+                    브레인시티 비스타동원
                 </div>
             </>
         );
@@ -78,7 +78,7 @@ const contents = (text, isLoaded) => {
                     교통·학군·생활 인프라 모두 가까운 최적의 입지.
                 </div>
                 <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
-                    수성 학군, 신설 초·중학교, 트램 호재까지 밴처밸리 푸르지오에서 누리세요.
+                    수성 학군, 신설 초·중학교, 트램 호재까지 브레인시티 비스타동원에서 누리세요.
                 </div>
             </>
         );
@@ -92,7 +92,7 @@ const contents = (text, isLoaded) => {
                     편리한 생활을 위한 최적의 공간 설계.
                 </div>
                 <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
-                    밴처밸리 푸르지오, 평택 동구 신천동 핵심 입지에서 찾아옵니다.
+                    브레인시티 비스타동원, 평택 동구 신천동 핵심 입지에서 찾아옵니다.
                 </div>
             </>
         );

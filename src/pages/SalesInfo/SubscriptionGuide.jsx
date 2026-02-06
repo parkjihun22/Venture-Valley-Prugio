@@ -54,10 +54,10 @@ const ComplexGuide1 = () => {
   return (
     <div className={styles.container}>
         <Helmet>
-          <title>밴처밸리 푸르지오 - 오피스텔분양광고</title>
+          <title>브레인시티 비스타동원 - 오피스텔분양광고</title>
           <meta
             name="description"
-            content="평택 동구 신천동 밴처밸리 푸르지오 청약방법을 확인하세요. 청약 자격, 신청 절차, 준비서류 및 유의사항을 상세히 안내합니다."
+            content="평택 동구 신천동 브레인시티 비스타동원 청약방법을 확인하세요. 청약 자격, 신청 절차, 준비서류 및 유의사항을 상세히 안내합니다."
           />
           <link
             rel="canonical"

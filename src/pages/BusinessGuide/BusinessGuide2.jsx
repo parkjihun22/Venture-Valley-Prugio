@@ -52,10 +52,10 @@ const BusinessGuide2 = () => {
     return (
         <div className={styles.container}>
             <Helmet>
-            <title>밴처밸리 푸르지오 - 분양일정</title>
+            <title>브레인시티 비스타동원 - 분양일정</title>
             <meta
                 name="description"
-                content="평택 동구 신천동 밴처밸리 푸르지오 분양일정을 확인하세요. 모델하우스 오픈, 청약 접수, 특별공급·1순위 일정, 당첨자 발표 및 계약 일정을 안내합니다."
+                content="평택 동구 신천동 브레인시티 비스타동원 분양일정을 확인하세요. 모델하우스 오픈, 청약 접수, 특별공급·1순위 일정, 당첨자 발표 및 계약 일정을 안내합니다."
             />
             <link rel="canonical" href="https://www.a7lashare.com/BusinessGuide/plan" />
             <meta name="robots" content="index,follow" />

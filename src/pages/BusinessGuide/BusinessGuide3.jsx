@@ -64,10 +64,10 @@ const BusinessGuide2 = () => {
 		<div className={styles.container}>
 				<Helmet>
 				{/* 필수 메타 */}
-				<title>밴처밸리 푸르지오 - 계약서류안내</title>
+				<title>브레인시티 비스타동원 - 계약서류안내</title>
 				<meta
 					name="description"
-					content="평택 동구 신천동 밴처밸리 푸르지오 분양 계약 시 필요한 서류 안내. 신분증, 주민등록등본, 인감증명서 등 필수 제출서류와 준비 절차, 유의사항을 빠르게 확인하세요."
+					content="평택 동구 신천동 브레인시티 비스타동원 분양 계약 시 필요한 서류 안내. 신분증, 주민등록등본, 인감증명서 등 필수 제출서류와 준비 절차, 유의사항을 빠르게 확인하세요."
 				/>
 				<meta name="robots" content="index,follow" />
 				<link
@@ -77,11 +77,11 @@ const BusinessGuide2 = () => {
 
 				{/* Open Graph */}
 				<meta property="og:type" content="website" />
-				<meta property="og:site_name" content="밴처밸리 푸르지오" />
-				<meta property="og:title" content="밴처밸리 푸르지오 - 계약서류안내" />
+				<meta property="og:site_name" content="브레인시티 비스타동원" />
+				<meta property="og:title" content="브레인시티 비스타동원 - 계약서류안내" />
 				<meta
 					property="og:description"
-					content="밴처밸리 푸르지오 계약서류 안내: 분양 계약 시 필요한 신분증, 주민등록등본, 인감증명서 등 제출서류와 절차, 유의사항을 확인하세요."
+					content="브레인시티 비스타동원 계약서류 안내: 분양 계약 시 필요한 신분증, 주민등록등본, 인감증명서 등 제출서류와 절차, 유의사항을 확인하세요."
 				/>
 				<meta property="og:url" content="https://www.a7lashare.com/BusinessGuide/documents" />
 				<meta property="og:image" content="https://www.a7lashare.com/img/og/documents.jpg" />
@@ -90,10 +90,10 @@ const BusinessGuide2 = () => {
 
 				{/* Twitter */}
 				<meta name="twitter:card" content="summary_large_image" />
-				<meta name="twitter:title" content="밴처밸리 푸르지오 - 계약서류안내" />
+				<meta name="twitter:title" content="브레인시티 비스타동원 - 계약서류안내" />
 				<meta
 					name="twitter:description"
-					content="밴처밸리 푸르지오 분양 계약에 필요한 필수 제출서류와 준비 절차, 유의사항을 빠르게 확인하세요."
+					content="브레인시티 비스타동원 분양 계약에 필요한 필수 제출서류와 준비 절차, 유의사항을 빠르게 확인하세요."
 				/>
 				<meta name="twitter:image" content="https://www.a7lashare.com/img/og/documents.jpg" />
 				<meta name="twitter:url" content="https://www.a7lashare.com/BusinessGuide/documents" />

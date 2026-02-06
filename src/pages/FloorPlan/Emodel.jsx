@@ -48,21 +48,21 @@ const Emodel = () => {
     <div className={styles.container}>
         <Helmet>
           {/* 핵심 SEO 페이지: E-모델하우스 */}
-          <title>밴처밸리 푸르지오 - E-모델하우스</title>
+          <title>브레인시티 비스타동원 - E-모델하우스</title>
           <meta
             name="description"
-            content="평택 동구 신천동 밴처밸리 푸르지오 E-모델하우스를 온라인에서 편리하게 둘러보세요. VR 가상 투어와 세대별 평면도, 인테리어까지 실감나게 확인하실 수 있습니다."
+            content="평택 동구 신천동 브레인시티 비스타동원 E-모델하우스를 온라인에서 편리하게 둘러보세요. VR 가상 투어와 세대별 평면도, 인테리어까지 실감나게 확인하실 수 있습니다."
           />
           <meta name="robots" content="index,follow" />
           <link rel="canonical" href="https://www.a7lashare.com/FloorPlan/Emodel" />
 
           {/* Open Graph */}
           <meta property="og:type" content="website" />
-          <meta property="og:site_name" content="밴처밸리 푸르지오" />
-          <meta property="og:title" content="밴처밸리 푸르지오 - E-모델하우스" />
+          <meta property="og:site_name" content="브레인시티 비스타동원" />
+          <meta property="og:title" content="브레인시티 비스타동원 - E-모델하우스" />
           <meta
             property="og:description"
-            content="평택 동구 신천동 밴처밸리 푸르지오 E-모델하우스를 온라인에서 둘러보세요. VR 투어와 세대별 평면도를 통해 실제와 같은 공간을 체험할 수 있습니다."
+            content="평택 동구 신천동 브레인시티 비스타동원 E-모델하우스를 온라인에서 둘러보세요. VR 투어와 세대별 평면도를 통해 실제와 같은 공간을 체험할 수 있습니다."
           />
           <meta property="og:url" content="https://www.a7lashare.com/FloorPlan/Emodel" />
           <meta property="og:image" content="https://www.a7lashare.com/img/og/emodel.jpg" />
@@ -71,10 +71,10 @@ const Emodel = () => {
 
           {/* Twitter */}
           <meta name="twitter:card" content="summary_large_image" />
-          <meta name="twitter:title" content="밴처밸리 푸르지오 - E-모델하우스" />
+          <meta name="twitter:title" content="브레인시티 비스타동원 - E-모델하우스" />
           <meta
             name="twitter:description"
-            content="밴처밸리 푸르지오 E-모델하우스를 온라인에서 편리하게 둘러보세요. VR 투어와 평면도로 실제 같은 공간을 경험하세요."
+            content="브레인시티 비스타동원 E-모델하우스를 온라인에서 편리하게 둘러보세요. VR 투어와 평면도로 실제 같은 공간을 경험하세요."
           />
           <meta name="twitter:image" content="https://www.a7lashare.com/img/og/emodel.jpg" />
           <meta name="twitter:url" content="https://www.a7lashare.com/FloorPlan/Emodel" />
@@ -84,10 +84,10 @@ const Emodel = () => {
             {JSON.stringify({
               "@context": "https://schema.org",
               "@type": "WebPage",
-              "name": "밴처밸리 푸르지오 - E-모델하우스",
+              "name": "브레인시티 비스타동원 - E-모델하우스",
               "url": "https://www.a7lashare.com/FloorPlan/Emodel",
               "description":
-                "평택 동구 신천동 밴처밸리 푸르지오 E-모델하우스를 온라인에서 편리하게 둘러보세요. VR 가상 투어와 세대별 평면도를 확인할 수 있습니다.",
+                "평택 동구 신천동 브레인시티 비스타동원 E-모델하우스를 온라인에서 편리하게 둘러보세요. VR 가상 투어와 세대별 평면도를 확인할 수 있습니다.",
               "primaryImageOfPage": {
                 "@type": "ImageObject",
                 "contentUrl": "https://www.a7lashare.com/img/og/emodel.jpg",

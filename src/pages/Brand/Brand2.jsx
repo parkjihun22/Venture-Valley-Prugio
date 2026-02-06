@@ -48,7 +48,7 @@ const Brand2 = () => {
 			<title>브레인시티비스타동원 - 홍보영상</title>
 			<meta
 				name="description"
-				content="평택 동구 신천동 밴처밸리 푸르지오 홍보영상을 통해 세대 설계, 첨단 커뮤니티, 쾌적한 자연환경과 입지 프리미엄을 생생하게 확인하세요."
+				content="평택 동구 신천동 브레인시티 비스타동원 홍보영상을 통해 세대 설계, 첨단 커뮤니티, 쾌적한 자연환경과 입지 프리미엄을 생생하게 확인하세요."
 			/>
 			<link rel="canonical" href="https://www.a7lashare.com/Brand/video" />
 			<meta name="robots" content="index,follow" />
@@ -59,7 +59,7 @@ const Brand2 = () => {
 			<meta property="og:title" content="브레인시티비스타동원 - 홍보영상" />
 			<meta
 				property="og:description"
-				content="밴처밸리 푸르지오 홍보영상: 평택 동구 신천동 입지의 프리미엄, 고급 커뮤니티, 쾌적한 자연환경을 영상으로 확인하세요."
+				content="브레인시티 비스타동원 홍보영상: 평택 동구 신천동 입지의 프리미엄, 고급 커뮤니티, 쾌적한 자연환경을 영상으로 확인하세요."
 			/>
 			<meta property="og:url" content="https://www.a7lashare.com/Brand/video" />
 			<meta property="og:image" content="https://www.a7lashare.com/img/og/video.jpg" />
@@ -71,7 +71,7 @@ const Brand2 = () => {
 			<meta name="twitter:title" content="브레인시티비스타동원 - 홍보영상" />
 			<meta
 				name="twitter:description"
-				content="평택 동구 신천동 밴처밸리 푸르지오 홍보영상: 첨단 설계, 프리미엄 입지, 쾌적한 자연환경을 영상으로 만나보세요."
+				content="평택 동구 신천동 브레인시티 비스타동원 홍보영상: 첨단 설계, 프리미엄 입지, 쾌적한 자연환경을 영상으로 만나보세요."
 			/>
 			<meta name="twitter:image" content="https://www.a7lashare.com/img/og/video.jpg" />
 			<meta name="twitter:url" content="https://www.a7lashare.com/Brand/video" />

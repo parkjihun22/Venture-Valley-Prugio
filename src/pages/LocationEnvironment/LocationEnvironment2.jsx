@@ -46,10 +46,10 @@ const LocationEnvironment1 = () => {
   return (
     <div className={styles.container}>
       <Helmet>
-        <title>밴처밸리 푸르지오 - 프리미엄</title>
+        <title>브레인시티 비스타동원 - 프리미엄</title>
         <meta
           name="description"
-          content="평택 동구 신천동 밴처밸리 푸르지오 프리미엄을 확인하세요. 평택역 복합환승센터·도시철도 4호선(트램 예정), 신천 수변공원·수성못, 신설 초·중학교(초품아), 풍부한 생활·문화 인프라의 가치를 안내합니다."
+          content="평택 동구 신천동 브레인시티 비스타동원 프리미엄을 확인하세요. 평택역 복합환승센터·도시철도 4호선(트램 예정), 신천 수변공원·수성못, 신설 초·중학교(초품아), 풍부한 생활·문화 인프라의 가치를 안내합니다."
         />
         <link rel="canonical" href="https://www.a7lashare.com/LocationEnvironment/primium" />
         <meta name="robots" content="index,follow" />
@@ -73,7 +73,7 @@ const LocationEnvironment1 = () => {
 
       <div className={styles.textBox}>
         <div>평택의 눈부신 가치 위에</div>
-        <div>밴처밸리 푸르지오의 새로운 자부심으로 찾아옵니다.</div>
+        <div>브레인시티 비스타동원의 새로운 자부심으로 찾아옵니다.</div>
       </div>
 
       <img

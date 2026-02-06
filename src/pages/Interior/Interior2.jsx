@@ -63,17 +63,17 @@ const Interior2 = () => {
       <MenuBar contents={menuContents} />
       {/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
       <h1 className={styles.screenReaderOnly}>
-          밴처밸리 푸르지오 - 84A 인테리어
+          브레인시티 비스타동원 - 84A 인테리어
         </h1>
         <p className={styles.screenReaderOnly}>
-          84A 타입 인테리어 페이지에서는 밴처밸리 푸르지오의 세련된 공간 디자인을 소개합니다. 
+          84A 타입 인테리어 페이지에서는 브레인시티 비스타동원의 세련된 공간 디자인을 소개합니다. 
           모던한 감각과 최신 설계가 조화를 이루어, 입주자들에게 고급스러움과 편안함을 제공합니다. 
           각 공간별 인테리어 콘셉트와 자재를 확인하며, 더욱 매력적인 주거 공간을 만나보실 수 있습니다.
         </p>
 
         <div className={styles.textBox}>
         <div>평택의 눈부신 가치 위에</div>
-        <div>밴처밸리 푸르지오의 새로운 자부심으로 찾아옵니다.</div>
+        <div>브레인시티 비스타동원의 새로운 자부심으로 찾아옵니다.</div>
       </div>
 
 

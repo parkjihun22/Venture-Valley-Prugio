@@ -93,21 +93,21 @@ const LocationEnvironment1 = () => {
     <div className={styles.container}>
       <Helmet>
         {/* 페이지별 메타: title/description/og/canonical 만 관리 */}
-        <title>밴처밸리 푸르지오 - 입지환경</title>
+        <title>브레인시티 비스타동원 - 입지환경</title>
         <meta
           name="description"
-          content="평택 동구 신천동 핵심 입지, 밴처밸리 푸르지오의 입지환경을 확인하세요. 평택역 복합환승센터·도시철도 4호선(트램 예정), 신설 학교, 신천 수변공원·수성못 등 쾌적한 자연환경과 생활 인프라."
+          content="평택 동구 신천동 핵심 입지, 브레인시티 비스타동원의 입지환경을 확인하세요. 평택역 복합환승센터·도시철도 4호선(트램 예정), 신설 학교, 신천 수변공원·수성못 등 쾌적한 자연환경과 생활 인프라."
         />
         <meta name="robots" content="index,follow" />
         <link rel="canonical" href="https://www.a7lashare.com/LocationEnvironment/intro" />
 
         {/* Open Graph */}
         <meta property="og:type" content="website" />
-        <meta property="og:site_name" content="밴처밸리 푸르지오" />
-        <meta property="og:title" content="밴처밸리 푸르지오 - 입지환경" />
+        <meta property="og:site_name" content="브레인시티 비스타동원" />
+        <meta property="og:title" content="브레인시티 비스타동원 - 입지환경" />
         <meta
           property="og:description"
-          content="평택 동구 신천동 핵심 입지, 밴처밸리 푸르지오의 입지환경을 확인하세요. 평택역·도시철도 4호선(트램 예정), 신설 학교, 신천 수변공원·수성못 등 생활 인프라와 자연환경을 누리는 핵심 입지."
+          content="평택 동구 신천동 핵심 입지, 브레인시티 비스타동원의 입지환경을 확인하세요. 평택역·도시철도 4호선(트램 예정), 신설 학교, 신천 수변공원·수성못 등 생활 인프라와 자연환경을 누리는 핵심 입지."
         />
         <meta property="og:url" content="https://www.a7lashare.com/LocationEnvironment/intro" />
         <meta property="og:image" content="https://www.a7lashare.com/img/og/location.jpg" />
@@ -116,7 +116,7 @@ const LocationEnvironment1 = () => {
 
         {/* Twitter */}
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="밴처밸리 푸르지오 - 입지환경" />
+        <meta name="twitter:title" content="브레인시티 비스타동원 - 입지환경" />
         <meta
           name="twitter:description"
           content="평택 동구 신천동 핵심 입지, 평택역 복합환승센터·도시철도 4호선(트램 예정) 교통망, 신설 학교, 신천 수변공원·수성못 인접으로 생활과 자연을 동시에 누리는 입지환경."
@@ -129,10 +129,10 @@ const LocationEnvironment1 = () => {
           {JSON.stringify({
             "@context": "https://schema.org",
             "@type": "WebPage",
-            "name": "밴처밸리 푸르지오 - 입지환경",
+            "name": "브레인시티 비스타동원 - 입지환경",
             "url": "https://www.a7lashare.com/LocationEnvironment/intro",
             "description":
-              "평택 동구 신천동 핵심 입지, 평택역 복합환승센터·도시철도 4호선(트램 예정) 교통망, 신설 학교, 신천 수변공원·수성못 등 생활 인프라와 쾌적한 자연환경을 갖춘 밴처밸리 푸르지오 입지환경.",
+              "평택 동구 신천동 핵심 입지, 평택역 복합환승센터·도시철도 4호선(트램 예정) 교통망, 신설 학교, 신천 수변공원·수성못 등 생활 인프라와 쾌적한 자연환경을 갖춘 브레인시티 비스타동원 입지환경.",
             "primaryImageOfPage": {
               "@type": "ImageObject",
               "contentUrl": "https://www.a7lashare.com/img/og/location.jpg",
@@ -171,7 +171,7 @@ const LocationEnvironment1 = () => {
       <div className={styles.textBox}> 
       <div>브랜드가 만드는 차이</div>
       <div>푸르지오가 완성하는 자부심</div>
-      <div>밴처밸리 푸르지오</div>
+      <div>브레인시티 비스타동원</div>
         </div>
 
 

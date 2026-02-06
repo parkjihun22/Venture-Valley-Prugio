@@ -24,7 +24,7 @@ const items = [
       <ul className={styles.detailList}>
         <li>
           <strong>사업명</strong>
-          <span>밴처밸리 푸르지오</span>
+          <span>브레인시티 비스타동원</span>
         </li>
         <li>
           <strong>대지위치</strong>
@@ -72,7 +72,7 @@ const items = [
           <h3 className={styles.premiumTitle}>GREAT PREMIUM</h3>
           <p className={styles.premiumSubtitle}>
             평택역 인접과 수성 생활권을 누리는<br />
-            밴처밸리 푸르지오 프리미엄 라이프
+            브레인시티 비스타동원 프리미엄 라이프
           </p>
         </div>
         <PremiumSlider />

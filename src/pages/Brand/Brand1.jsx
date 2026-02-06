@@ -48,21 +48,21 @@ const Brand1 = () => {
     return (
         <div className={styles.container}>
             <Helmet>
-            <title>밴처밸리 푸르지오 - 브랜드 소개</title>
+            <title>브레인시티 비스타동원 - 브랜드 소개</title>
             <meta
                 name="description"
-                content="평택 동구 신천동 밴처밸리 푸르지오의 브랜드 철학과 가치를 소개합니다. 최고 수준의 품질 기준과 첨단 시공 기술, 프리미엄 주거문화로 입주민의 생활 품격을 높입니다."
+                content="평택 동구 신천동 브레인시티 비스타동원의 브랜드 철학과 가치를 소개합니다. 최고 수준의 품질 기준과 첨단 시공 기술, 프리미엄 주거문화로 입주민의 생활 품격을 높입니다."
             />
             <link rel="canonical" href="https://www.a7lashare.com/Brand/intro" />
             <meta name="robots" content="index,follow" />
 
             {/* Open Graph */}
             <meta property="og:type" content="website" />
-            <meta property="og:site_name" content="밴처밸리 푸르지오" />
-            <meta property="og:title" content="밴처밸리 푸르지오 - 브랜드 소개" />
+            <meta property="og:site_name" content="브레인시티 비스타동원" />
+            <meta property="og:title" content="브레인시티 비스타동원 - 브랜드 소개" />
             <meta
                 property="og:description"
-                content="밴처밸리 푸르지오 브랜드 소개: 프리미엄 품질, 첨단 시공 기술, 신뢰할 수 있는 주거 가치를 담은 새로운 라이프스타일."
+                content="브레인시티 비스타동원 브랜드 소개: 프리미엄 품질, 첨단 시공 기술, 신뢰할 수 있는 주거 가치를 담은 새로운 라이프스타일."
             />
             <meta property="og:url" content="https://www.a7lashare.com/Brand/intro" />
             <meta property="og:image" content="https://www.a7lashare.com/img/og/brand.jpg" />
@@ -71,10 +71,10 @@ const Brand1 = () => {
 
             {/* Twitter */}
             <meta name="twitter:card" content="summary_large_image" />
-            <meta name="twitter:title" content="밴처밸리 푸르지오 - 브랜드 소개" />
+            <meta name="twitter:title" content="브레인시티 비스타동원 - 브랜드 소개" />
             <meta
                 name="twitter:description"
-                content="밴처밸리 푸르지오 브랜드 철학과 가치를 확인하세요. 프리미엄 주거문화와 차별화된 품질로 완성되는 새로운 라이프스타일."
+                content="브레인시티 비스타동원 브랜드 철학과 가치를 확인하세요. 프리미엄 주거문화와 차별화된 품질로 완성되는 새로운 라이프스타일."
             />
             <meta name="twitter:image" content="https://www.a7lashare.com/img/og/brand.jpg" />
             <meta name="twitter:url" content="https://www.a7lashare.com/Brand/intro" />

@@ -52,10 +52,10 @@ const ComplexGuide1 = () => {
   return (
     <div className={styles.container}>
         <Helmet>
-          <title>밴처밸리 푸르지오 - 청약안내</title>
+          <title>브레인시티 비스타동원 - 청약안내</title>
           <meta
             name="description"
-            content="평택 동구 신천동 밴처밸리 푸르지오 청약안내를 한눈에 확인하세요. 특별공급, 1·2순위 청약 일정, 자격요건, 필요서류 및 절차를 안내합니다."
+            content="평택 동구 신천동 브레인시티 비스타동원 청약안내를 한눈에 확인하세요. 특별공급, 1·2순위 청약 일정, 자격요건, 필요서류 및 절차를 안내합니다."
           />
           <link
             rel="canonical"

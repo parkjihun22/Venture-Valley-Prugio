@@ -53,10 +53,10 @@ const ComplexGuide1 = () => {
     <div className={styles.container}>
 
       <Helmet>
-        <title>밴처밸리 푸르지오 -오피스텔분양광고</title>
+        <title>브레인시티 비스타동원 -오피스텔분양광고</title>
         <meta
           name="description"
-          content="평택 동구 신천동 밴처밸리 푸르지오 분양계약 시 필요한 오피스텔 분양 광고를 한눈에 확인하세요."
+          content="평택 동구 신천동 브레인시티 비스타동원 분양계약 시 필요한 오피스텔 분양 광고를 한눈에 확인하세요."
         />
         <link
           rel="canonical"

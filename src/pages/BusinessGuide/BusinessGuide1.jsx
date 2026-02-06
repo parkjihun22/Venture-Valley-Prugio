@@ -15,7 +15,7 @@ import { Helmet } from "react-helmet-async";
 
 
 const projectData = [
-	{ label: '사업명', value: '밴처밸리 푸르지오' },
+	{ label: '사업명', value: '브레인시티 비스타동원' },
 	{ label: '사업위치', value: '평택광역시 동구 신천동 일원 (평택역 생활권)' },
 	{ label: '대지면적', value: '추후 공지' },
 	{ label: '건축면적', value: '추후 공지' },
@@ -64,21 +64,21 @@ const BusinessGuide1 = () => {
 
 				<Helmet>
 				{/* 페이지별 메타: title/description/og/canonical 만 관리 */}
-				<title>밴처밸리 푸르지오 - 사업안내</title>
+				<title>브레인시티 비스타동원 - 사업안내</title>
 				<meta
 					name="description"
-					content="평택 동구 신천동 밴처밸리 푸르지오 사업 개요와 입지를 확인하세요. 아파트 540세대와 주거형 오피스텔 56실, 평택역 생활권의 미래가치를 안내합니다."
+					content="평택 동구 신천동 브레인시티 비스타동원 사업 개요와 입지를 확인하세요. 아파트 540세대와 주거형 오피스텔 56실, 평택역 생활권의 미래가치를 안내합니다."
 				/>
 				<meta name="robots" content="index,follow" />
 				<link rel="canonical" href="https://www.a7lashare.com/BusinessGuide/intro" />
 
 				{/* Open Graph */}
 				<meta property="og:type" content="website" />
-				<meta property="og:site_name" content="밴처밸리 푸르지오" />
-				<meta property="og:title" content="밴처밸리 푸르지오 - 사업안내" />
+				<meta property="og:site_name" content="브레인시티 비스타동원" />
+				<meta property="og:title" content="브레인시티 비스타동원 - 사업안내" />
 				<meta
 					property="og:description"
-					content="밴처밸리 푸르지오 사업 개요: 아파트 540세대, 오피스텔 56실, 지하 5층 ~ 지상 33층 규모. 평택 동구 신천동 평택역 생활권의 핵심 입지."
+					content="브레인시티 비스타동원 사업 개요: 아파트 540세대, 오피스텔 56실, 지하 5층 ~ 지상 33층 규모. 평택 동구 신천동 평택역 생활권의 핵심 입지."
 				/>
 				<meta property="og:url" content="https://www.a7lashare.com/BusinessGuide/intro" />
 				<meta property="og:image" content="https://www.a7lashare.com/img/og/business.jpg" />
@@ -87,10 +87,10 @@ const BusinessGuide1 = () => {
 
 				{/* Twitter */}
 				<meta name="twitter:card" content="summary_large_image" />
-				<meta name="twitter:title" content="밴처밸리 푸르지오 - 사업안내" />
+				<meta name="twitter:title" content="브레인시티 비스타동원 - 사업안내" />
 				<meta
 					name="twitter:description"
-					content="밴처밸리 푸르지오 사업 개요와 입지 정보: 아파트 540세대, 오피스텔 56실, 평택역 생활권의 프리미엄 가치를 확인하세요."
+					content="브레인시티 비스타동원 사업 개요와 입지 정보: 아파트 540세대, 오피스텔 56실, 평택역 생활권의 프리미엄 가치를 확인하세요."
 				/>
 				<meta name="twitter:image" content="https://www.a7lashare.com/img/og/business.jpg" />
 				<meta name="twitter:url" content="https://www.a7lashare.com/BusinessGuide/intro" />
@@ -100,10 +100,10 @@ const BusinessGuide1 = () => {
 					{JSON.stringify({
 					"@context": "https://schema.org",
 					"@type": "WebPage",
-					"name": "밴처밸리 푸르지오 - 사업안내",
+					"name": "브레인시티 비스타동원 - 사업안내",
 					"url": "https://www.a7lashare.com/BusinessGuide/intro",
 					"description":
-						"평택 동구 신천동 밴처밸리 푸르지오 사업 개요와 입지 정보. 아파트 540세대, 오피스텔 56실, 지하 5층~지상 33층 규모로 조성되는 주거 랜드마크.",
+						"평택 동구 신천동 브레인시티 비스타동원 사업 개요와 입지 정보. 아파트 540세대, 오피스텔 56실, 지하 5층~지상 33층 규모로 조성되는 주거 랜드마크.",
 					"primaryImageOfPage": {
 						"@type": "ImageObject",
 						"contentUrl": "https://www.a7lashare.com/img/og/business.jpg",

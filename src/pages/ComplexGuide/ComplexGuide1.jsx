@@ -52,21 +52,21 @@ const ComplexGuide1 = () => {
 		<div className={styles.container}>
 				<Helmet>
 				{/* 페이지별 메타 */}
-				<title>밴처밸리 푸르지오 - 단지배치도</title>
+				<title>브레인시티 비스타동원 - 단지배치도</title>
 				<meta
 					name="description"
-					content="평택 동구 신천동 밴처밸리 푸르지오 단지배치도를 통해 각 동의 위치, 조경, 커뮤니티 시설 및 주차·동선 설계를 확인하세요. 입주민 생활 편의와 쾌적한 환경을 고려한 최적의 배치를 안내합니다."
+					content="평택 동구 신천동 브레인시티 비스타동원 단지배치도를 통해 각 동의 위치, 조경, 커뮤니티 시설 및 주차·동선 설계를 확인하세요. 입주민 생활 편의와 쾌적한 환경을 고려한 최적의 배치를 안내합니다."
 				/>
 				<meta name="robots" content="index,follow" />
 				<link rel="canonical" href="https://www.a7lashare.com/ComplexGuide/intro" />
 
 				{/* Open Graph */}
 				<meta property="og:type" content="website" />
-				<meta property="og:site_name" content="밴처밸리 푸르지오" />
-				<meta property="og:title" content="밴처밸리 푸르지오 - 단지배치도" />
+				<meta property="og:site_name" content="브레인시티 비스타동원" />
+				<meta property="og:title" content="브레인시티 비스타동원 - 단지배치도" />
 				<meta
 					property="og:description"
-					content="밴처밸리 푸르지오 단지배치도: 각 동의 위치, 조경과 커뮤니티, 주차·동선까지 생활 편의를 고려한 최적 설계."
+					content="브레인시티 비스타동원 단지배치도: 각 동의 위치, 조경과 커뮤니티, 주차·동선까지 생활 편의를 고려한 최적 설계."
 				/>
 				<meta property="og:url" content="https://www.a7lashare.com/ComplexGuide/intro" />
 				<meta property="og:image" content="https://www.a7lashare.com/img/og/place.jpg" />
@@ -75,10 +75,10 @@ const ComplexGuide1 = () => {
 
 				{/* Twitter */}
 				<meta name="twitter:card" content="summary_large_image" />
-				<meta name="twitter:title" content="밴처밸리 푸르지오 - 단지배치도" />
+				<meta name="twitter:title" content="브레인시티 비스타동원 - 단지배치도" />
 				<meta
 					name="twitter:description"
-					content="평택 동구 신천동 밴처밸리 푸르지오 단지배치도: 조경·커뮤니티·주차·동선까지 입주민 생활 편의를 고려한 설계를 확인하세요."
+					content="평택 동구 신천동 브레인시티 비스타동원 단지배치도: 조경·커뮤니티·주차·동선까지 입주민 생활 편의를 고려한 설계를 확인하세요."
 				/>
 				<meta name="twitter:image" content="https://www.a7lashare.com/img/og/place.jpg" />
 				<meta name="twitter:url" content="https://www.a7lashare.com/ComplexGuide/intro" />
@@ -88,10 +88,10 @@ const ComplexGuide1 = () => {
 					{JSON.stringify({
 					"@context": "https://schema.org",
 					"@type": "WebPage",
-					"name": "밴처밸리 푸르지오 - 단지배치도",
+					"name": "브레인시티 비스타동원 - 단지배치도",
 					"url": "https://www.a7lashare.com/ComplexGuide/intro",
 					"description":
-						"평택 동구 신천동 밴처밸리 푸르지오 단지배치도: 각 동의 위치, 조경, 커뮤니티 시설, 주차·동선 설계를 확인하세요.",
+						"평택 동구 신천동 브레인시티 비스타동원 단지배치도: 각 동의 위치, 조경, 커뮤니티 시설, 주차·동선 설계를 확인하세요.",
 					"primaryImageOfPage": {
 						"@type": "ImageObject",
 						"contentUrl": "https://www.a7lashare.com/img/og/place.jpg",

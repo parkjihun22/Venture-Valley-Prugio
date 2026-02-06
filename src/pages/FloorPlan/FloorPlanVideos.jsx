@@ -65,12 +65,12 @@ const FloorPlanVideos = () => {
       <MenuBar contents={menuContents} />
 
       <h1 className={styles.screenReaderOnly}>
-        벤처밸리 푸르지오- 홍보영상
+        브레인시티비스타동원- 홍보영상
       </h1>
       <p className={styles.screenReaderOnly}>세대안내영상 안내 페이지입니다.</p>
 
       <div className={styles.textBox}>
-        <div>대구의 눈부신 가치 위에 찾아오는</div>
+        <div>평택의 눈부신 가치 위에 찾아오는</div>
         <div>푸르지오의 가치를 영상으로 확인해보세요</div>
       </div>
 

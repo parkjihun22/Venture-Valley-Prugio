@@ -67,7 +67,7 @@ const FloorPlan2 = () => {
 			<MenuBar contents={menuContents} />
 
 			<div className={styles.textBox}>
-				<div>대구의 눈부신 가치 위에</div>
+				<div>평택의 눈부신 가치 위에</div>
 				<div>푸르지오의 새로운 자부심으로 찾아옵니다.</div>
 			</div>
 
@@ -75,7 +75,7 @@ const FloorPlan2 = () => {
 			<img
 				className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
 				src={page1}
-				alt="벤처밸리 푸르지오평면안내 이미지2"
+				alt="브레인시티비스타동원평면안내 이미지2"
 				onLoad={handleImageLoad}  // 이미지 로드 후 애니메이션 실행
 			/>
 

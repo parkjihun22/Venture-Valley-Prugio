@@ -55,7 +55,7 @@ const ComplexGuide1 = () => {
         <title>밴처밸리 푸르지오 - 호수배치도</title>
         <meta
           name="description"
-          content="대구 동구 신천동 밴처밸리 푸르지오 호수배치도를 통해 세대별 위치와 전망, 일조 방향, 프라이버시를 고려한 설계를 확인하세요."
+          content="평택 동구 신천동 밴처밸리 푸르지오 호수배치도를 통해 세대별 위치와 전망, 일조 방향, 프라이버시를 고려한 설계를 확인하세요."
         />
         <link rel="canonical" href="https://www.a7lashare.com/ComplexGuide/detailintro" />
         <meta name="robots" content="index,follow" />
@@ -78,7 +78,7 @@ const ComplexGuide1 = () => {
       <Bener title="단지안내" />
       <MenuBar contents={menuContents} />
       <h1 className={styles.screenReaderOnly}>
-        벤처밸리 푸르지오- 호수배치도
+        브레인시티비스타동원- 호수배치도
       </h1>
       <p className={styles.screenReaderOnly}>
         호수 배치도 페이지는 각 세대의 위치와 평면도를 제공합니다. 고객들이
@@ -87,7 +87,7 @@ const ComplexGuide1 = () => {
       </p>
 
       <div className={styles.textBox}>
-        <div>벤처밸리 푸르지오가 눈부신 가치 위에</div>
+        <div>브레인시티비스타동원가 눈부신 가치 위에</div>
         <div>새로운 자부심으로 찾아옵니다.</div>
       </div>
 
@@ -95,7 +95,7 @@ const ComplexGuide1 = () => {
       <img
 				className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
 				src={page1}
-				alt="벤처밸리 푸르지오호수배치도-image1"
+				alt="브레인시티비스타동원호수배치도-image1"
 				onLoad={handleImageLoad}  // 이미지 로드 후 애니메이션 실행
 			/>
 

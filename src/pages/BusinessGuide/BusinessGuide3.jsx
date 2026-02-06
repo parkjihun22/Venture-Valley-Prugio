@@ -67,7 +67,7 @@ const BusinessGuide2 = () => {
 				<title>밴처밸리 푸르지오 - 계약서류안내</title>
 				<meta
 					name="description"
-					content="대구 동구 신천동 밴처밸리 푸르지오 분양 계약 시 필요한 서류 안내. 신분증, 주민등록등본, 인감증명서 등 필수 제출서류와 준비 절차, 유의사항을 빠르게 확인하세요."
+					content="평택 동구 신천동 밴처밸리 푸르지오 분양 계약 시 필요한 서류 안내. 신분증, 주민등록등본, 인감증명서 등 필수 제출서류와 준비 절차, 유의사항을 빠르게 확인하세요."
 				/>
 				<meta name="robots" content="index,follow" />
 				<link
@@ -106,16 +106,16 @@ const BusinessGuide2 = () => {
 			<Bener title="사업개요" />
 			<MenuBar contents={menuContents} />
 			{/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
-            <h1 className={styles.screenReaderOnly}>벤처밸리 푸르지오 - 계약서류안내</h1>
+            <h1 className={styles.screenReaderOnly}>브레인시티비스타동원 - 계약서류안내</h1>
 			<p className={styles.screenReaderOnly}>계약서류안내 페이지지에서는 분양 당첨 후 필요한 서류들에 대해 안내합니다. 계약 체결을 위해 준비해야 할 서류 목록과 함께, 각 서류의 제출 기한과 정확한 준비 방법을 안내하여 고객들이 혼동 없이 준비할 수 있도록 돕습니다.</p>
 
 			<div className={styles.textBox}>
-				<div>대구의 눈부신 가치 위에</div>
-				<div>벤처밸리 푸르지오의 새로운 자부심으로 찾아옵니다.</div>
+				<div>평택의 눈부신 가치 위에</div>
+				<div>브레인시티비스타동원의 새로운 자부심으로 찾아옵니다.</div>
 			</div>
 
 			{/* 이미지에 isImageVisible 상태 적용 */}
-			{/* <img className={`${styles.image4} ${isImageVisible ? styles.visible : ''}`} src={page1} alt="벤처밸리 푸르지오계약서류안내-image1" /> */}
+			{/* <img className={`${styles.image4} ${isImageVisible ? styles.visible : ''}`} src={page1} alt="브레인시티비스타동원계약서류안내-image1" /> */}
 
 
 

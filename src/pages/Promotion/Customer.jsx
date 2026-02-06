@@ -70,7 +70,7 @@ export default function Customer() {
             <title>밴처밸리 푸르지오 - 관심고객등록</title>
             <meta
               name="description"
-              content="대구 동구 신천동 밴처밸리 푸르지오 관심고객 등록 시 모델하우스 방문예약, 위치 및 현장정보를 사전에 안내받으실 수 있습니다."
+              content="평택 동구 신천동 밴처밸리 푸르지오 관심고객 등록 시 모델하우스 방문예약, 위치 및 현장정보를 사전에 안내받으실 수 있습니다."
             />
             <meta name="robots" content="index,follow" />
             <link
@@ -84,7 +84,7 @@ export default function Customer() {
             <meta property="og:title" content="밴처밸리 푸르지오 - 관심고객등록" />
             <meta
               property="og:description"
-              content="대구 동구 신천동 밴처밸리 푸르지오 관심고객 등록 시 모델하우스 방문예약, 위치 및 현장정보를 사전에 안내받으실 수 있습니다."
+              content="평택 동구 신천동 밴처밸리 푸르지오 관심고객 등록 시 모델하우스 방문예약, 위치 및 현장정보를 사전에 안내받으실 수 있습니다."
             />
             <meta
               property="og:url"
@@ -102,7 +102,7 @@ export default function Customer() {
             <meta name="twitter:title" content="밴처밸리 푸르지오 - 관심고객등록" />
             <meta
               name="twitter:description"
-              content="대구 동구 신천동 밴처밸리 푸르지오 관심고객 등록 시 모델하우스 방문예약, 위치 및 현장정보를 사전에 안내받으실 수 있습니다."
+              content="평택 동구 신천동 밴처밸리 푸르지오 관심고객 등록 시 모델하우스 방문예약, 위치 및 현장정보를 사전에 안내받으실 수 있습니다."
             />
             <meta
               name="twitter:image"
@@ -121,7 +121,7 @@ export default function Customer() {
                 "name": "밴처밸리 푸르지오 - 관심고객등록",
                 "url": "https://www.a7lashare.com/Promotion/Customer",
                 "description":
-                  "대구 동구 신천동 밴처밸리 푸르지오 관심고객 등록 시 모델하우스 방문예약, 위치 및 현장정보를 사전에 안내받으실 수 있습니다.",
+                  "평택 동구 신천동 밴처밸리 푸르지오 관심고객 등록 시 모델하우스 방문예약, 위치 및 현장정보를 사전에 안내받으실 수 있습니다.",
                 "primaryImageOfPage": {
                   "@type": "ImageObject",
                   "contentUrl":
@@ -157,7 +157,7 @@ export default function Customer() {
       <FixIcon />
 
       {/* 배너 */}
-      <Bener title="벤처밸리 푸르지오" />
+      <Bener title="브레인시티비스타동원" />
 
       {/* 네비게이션 탭 */}
       <MenuBar contents={promoMenu} />
@@ -167,7 +167,7 @@ export default function Customer() {
         {/* ─── 좌측 카드 ─── */}
         <div className={styles.customerLeft}>
           <div className={styles.textBlock}>
-            <h2 className={styles.projectName}>벤처밸리 푸르지오</h2>
+            <h2 className={styles.projectName}>브레인시티비스타동원</h2>
             <h3 className={styles.pageTitle}>방문예약등록</h3>
           </div>
           <img

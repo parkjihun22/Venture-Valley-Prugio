@@ -55,7 +55,7 @@ const BusinessGuide2 = () => {
             <title>밴처밸리 푸르지오 - 분양일정</title>
             <meta
                 name="description"
-                content="대구 동구 신천동 밴처밸리 푸르지오 분양일정을 확인하세요. 모델하우스 오픈, 청약 접수, 특별공급·1순위 일정, 당첨자 발표 및 계약 일정을 안내합니다."
+                content="평택 동구 신천동 밴처밸리 푸르지오 분양일정을 확인하세요. 모델하우스 오픈, 청약 접수, 특별공급·1순위 일정, 당첨자 발표 및 계약 일정을 안내합니다."
             />
             <link rel="canonical" href="https://www.a7lashare.com/BusinessGuide/plan" />
             <meta name="robots" content="index,follow" />
@@ -68,18 +68,18 @@ const BusinessGuide2 = () => {
             <Bener title="사업개요" />
             <MenuBar contents={menuContents} />
 
-            <h1 className={styles.screenReaderOnly}>벤처밸리 푸르지오- 분양일정</h1>
+            <h1 className={styles.screenReaderOnly}>브레인시티비스타동원- 분양일정</h1>
             <p className={styles.screenReaderOnly}>
-			      벤처밸리 푸르지오의 분양 일정은 중요한 날짜들을 안내하는 핵심 정보입니다.
+			      브레인시티비스타동원의 분양 일정은 중요한 날짜들을 안내하는 핵심 정보입니다.
             </p>
 
             <div className={styles.textBox}>
-                <div>대구의 눈부신 가치 위에</div>
-                <div>벤처밸리 푸르지오의 새로운 자부심으로 찾아옵니다.</div>
+                <div>평택의 눈부신 가치 위에</div>
+                <div>브레인시티비스타동원의 새로운 자부심으로 찾아옵니다.</div>
             </div>
 
             {/* ✅ 기존 이미지 부분 주석 처리하고 Ready 컴포넌트 표시 */}
-            {/* <img className={`${styles.image4} ${isImageVisible ? styles.visible : ''}`} src={page1} alt="벤처밸리 푸르지오분양일정안내-image1" /> */}
+            {/* <img className={`${styles.image4} ${isImageVisible ? styles.visible : ''}`} src={page1} alt="브레인시티비스타동원분양일정안내-image1" /> */}
 
             <div className={styles.readyContainer}>
            

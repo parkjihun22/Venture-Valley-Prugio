@@ -53,7 +53,7 @@ const section3Contents = [
     title: "PREMIUM 01",
     text1: `브랜드 신축 대단지 프리미엄`,
     text2: `아파트 540세대 + 오피스텔 56실 규모<br/>
-            동대구역 인접, 수성 생활권 핵심 입지`,
+            평택역 인접, 수성 생활권 핵심 입지`,
     link: "/BusinessGuide/intro",
     linkText: "더 알아보기 >",
   },
@@ -61,7 +61,7 @@ const section3Contents = [
     imgSrc: section3_Image2,
     title: "PREMIUM 02",
     text1: `광역 교통망 호재`,
-    text2: `동대구역 복합환승센터 인접<br/>
+    text2: `평택역 복합환승센터 인접<br/>
             도시철도 4호선(트램·예정) 연결<br/>
             전국 어디든 빠른 접근성`,
     link: "/LocationEnvironment/intro",
@@ -71,7 +71,7 @@ const section3Contents = [
     imgSrc: section3_Image3,
     title: "PREMIUM 03",
     text1: `의료·생활 인프라 풍부`,
-    text2: `대구파티마병원·의료기관 인접<br/>
+    text2: `평택파티마병원·의료기관 인접<br/>
             백화점·쇼핑몰·카페거리 원스톱 생활<br/>
             풍부한 도심 인프라`,
     link: "/LocationEnvironment/intro",
@@ -251,7 +251,7 @@ const Main = () => {
             <img
               src={mainImage}
               className={styles.mainImage}
-              alt="벤처밸리 푸르지오-mainimage1"
+              alt="브레인시티비스타동원-mainimage1"
             />
             <div className={styles.overlay}></div>
                         <div className={styles.mainImageTextBox}>
@@ -260,7 +260,7 @@ const Main = () => {
                 <span className={styles.greyText}>브랜드 프리미엄</span>
               </div>
               <div className={styles.mainImageTitleBox}>
-                <div className={styles.mainImageText}>대구가 기다린 미래 프리미엄</div>
+                <div className={styles.mainImageText}>평택가 기다린 미래 프리미엄</div>
                 <div className={styles.mainImageLine}></div>
                 <div className={styles.mainImageText}>
                   밴처밸리 푸르지오
@@ -273,7 +273,7 @@ const Main = () => {
                   <img
                     src={subpinkimg}
                     className={styles.subPinkImg}
-                    alt="벤처밸리 푸르지오관심고객등록"
+                    alt="브레인시티비스타동원관심고객등록"
                     loading="lazy"
                     decoding="async"
                   />
@@ -288,11 +288,11 @@ const Main = () => {
               <div className={styles.textBox}>
                 <div className={styles.text1}>Location</div>
                 <div className={styles.text2}>
-                  벤처밸리 푸르지오 중요 POINT
+                  브레인시티비스타동원 중요 POINT
                 </div>
                 <div className={styles.text3}>
-                - 동대구역 복합환승센터 인접, 도시철도 4호선(트램·예정) 연결로 우수한 광역 교통망<br />
-                - 대구파티마병원·동대구로 의료기관 등 종합 의료 인프라 인접, 안심 생활환경<br />
+                - 평택역 복합환승센터 인접, 도시철도 4호선(트램·예정) 연결로 우수한 광역 교통망<br />
+                - 평택파티마병원·평택로 의료기관 등 종합 의료 인프라 인접, 안심 생활환경<br />
                 - 신천 수변공원·수성못 등 도심 속 풍부한 녹지와 쾌적한 자연환경<br />
                 - 백화점·대형마트·카페거리 등 생활·문화 인프라 밀집
                 </div>
@@ -313,7 +313,7 @@ const Main = () => {
               <div className={styles.menuBox}>
                 <img
                   src={section1_Image1}
-                  alt="벤처밸리 푸르지오브랜드소개-image2"
+                  alt="브레인시티비스타동원브랜드소개-image2"
                   loading="lazy"
                   decoding="async"
                 />
@@ -332,7 +332,7 @@ const Main = () => {
                   <br />
                   <span>
                     최고의 브랜드 아파트 <br />
-                    벤처밸리 푸르지오
+                    브레인시티비스타동원
                   </span>
                 </div>
                 <div className={styles.subTitle}>
@@ -340,13 +340,13 @@ const Main = () => {
                   <div className={styles.subText}>
                     찬란한 비전에 완벽한 주거가치까지 더해
                     <br />
-                    벤처밸리 푸르지오가 함께합니다
+                    브레인시티비스타동원가 함께합니다
                   </div>
                 </div>
               </div>
               <img
                 src={section8Img3}
-                alt="벤처밸리 푸르지오 입지환경 소개 이미지2"
+                alt="브레인시티비스타동원 입지환경 소개 이미지2"
                 loading="lazy"
                 decoding="async"
               />
@@ -362,7 +362,7 @@ const Main = () => {
                 <div className={`${styles.text2} fadeUpRepeat`}>
                   기대한 모든 프리미엄이
                   <br />
-                  벤처밸리 푸르지오에서 펼쳐집니다
+                  브레인시티비스타동원에서 펼쳐집니다
                 </div>
                 <div className={`${styles.text3} fadeUpRepeat`}>
                   SPECIAL PLAN
@@ -382,7 +382,7 @@ const Main = () => {
               </div>
               <img
                 src={section2_Image1}
-                alt="벤처밸리 푸르지오아파트 조감도 이미지"
+                alt="브레인시티비스타동원아파트 조감도 이미지"
                 loading="lazy"
                 decoding="async"
               />
@@ -416,11 +416,11 @@ const Main = () => {
               <div className={styles.imageBox}>
                 <img
                   src={section4_Image1}
-                  alt="벤처밸리 푸르지오 브랜드 소개 이미지4"
+                  alt="브레인시티비스타동원 브랜드 소개 이미지4"
                   loading="lazy"
                   decoding="async"
                 />
-                <div className={styles.text1}>벤처밸리 푸르지오</div>
+                <div className={styles.text1}>브레인시티비스타동원</div>
                 <div className={styles.text2}>THE NATURAL NOBILITY</div>
                 <div className={styles.text3}>
                   당신의 삶, 그 고귀함이 계속되길
@@ -442,7 +442,7 @@ const Main = () => {
             {/* 상단 타이틀 영역 (좌: 제목/부제, 우: 안내문구) */}
             <div className={styles.pcTitleRow}>
               <div className={styles.leftTitle}>
-                <h2>벤처밸리 푸르지오</h2>
+                <h2>브레인시티비스타동원</h2>
                 <p>방문예약</p>
               </div>
               <div className={styles.rightText}>
@@ -512,7 +512,7 @@ const Main = () => {
             <div className={styles.section9}>
               <div className={styles.textBox}>
                 <div className={styles.title}>
-                  벤처밸리 푸르지오
+                  브레인시티비스타동원
                   <br />
                   <span>견본주택 오시는길</span>
                 </div>
@@ -521,11 +521,11 @@ const Main = () => {
                   <div className={styles.subText}>
                     찬란한 비전에 완벽한 주거가치까지 더해
                     <br />
-                    벤처밸리 푸르지오가 함께합니다
+                    브레인시티비스타동원가 함께합니다
                   </div>
                 </div>
               </div>
-              <img src={map1} alt="벤처밸리 푸르지오오시는길안내-image1" />
+              <img src={map1} alt="브레인시티비스타동원오시는길안내-image1" />
             </div>
           </div> */}
 
@@ -579,12 +579,12 @@ const Main = () => {
             <img
               src={mobileImageMain}
               className={styles.mainImage}
-              alt="벤처밸리 푸르지오 모바일 메인 이미지"
+              alt="브레인시티비스타동원 모바일 메인 이미지"
             />
             <div className={styles.overlay}></div>
             <div className={styles.mainImageTextBox1}>
               <div className={styles.mainImageTextSub1}>
-              동대구의 새로운 시작, 높은 미래가치<br/>
+              평택의 새로운 시작, 높은 미래가치<br/>
               브랜드 평판 1위 푸르지오
               <br />
               <span className={styles.greyText1}>브랜드 프리미엄</span>
@@ -601,11 +601,11 @@ const Main = () => {
           <div className={styles.container1}>
             <div className={styles.text1}>Location</div>
             <div className={styles.text2}>
-            벤처밸리 푸르지오 중요 POINT
+            브레인시티비스타동원 중요 POINT
           </div>
           <div className={styles.text3}>
-          - 동대구역 복합환승센터 인접, 도시철도 4호선(트램·예정)으로 광역 교통망<br />
-          - 대구파티마병원·동대구로 의료기관 등 종합 의료 인프라 인접<br />
+          - 평택역 복합환승센터 인접, 도시철도 4호선(트램·예정)으로 광역 교통망<br />
+          - 평택파티마병원·평택로 의료기관 등 종합 의료 인프라 인접<br />
           - 신천 수변공원·수성못 등 녹지와 공원 인접, 쾌적한 자연환경<br />
           - 백화점·대형마트·카페거리 등 풍부한 생활·문화 인프라 밀집
           </div>
@@ -642,7 +642,7 @@ const Main = () => {
           <div className={styles.container7}>
             <div className={styles.textBox}>
               <div className={styles.title}>
-                대구의 중심으로 사는
+                평택의 중심으로 사는
                 <br />
                 <span>최고의 브랜드 아파트</span>
               </div>
@@ -651,13 +651,13 @@ const Main = () => {
                 <div className={styles.subText}>
                   완벽한 비전중심에서 완벽한 주거가치까지 더해
                   <br />
-                  벤처밸리 푸르지오가 함께합니다
+                  브레인시티비스타동원가 함께합니다
                 </div>
               </div>
             </div>
             <img
               src={section8Img3}
-              alt="벤처밸리 푸르지오모바일 입지안내 이미지"
+              alt="브레인시티비스타동원모바일 입지안내 이미지"
               loading="lazy"
               decoding="async"
             />
@@ -671,19 +671,19 @@ const Main = () => {
               <div className={`${styles.text2} fadeUpRepeat`}>
                 기대한 모든 프리미엄이
                 <br />
-                벤처밸리 푸르지오에서 펼쳐집니다
+                브레인시티비스타동원에서 펼쳐집니다
               </div>
               <div className={`${styles.text3} fadeUpRepeat`}>SPECIAL PLAN</div>
               <div className={`${styles.text4} fadeUpRepeat`}>
                 살수록 자부심이 차원이 다른
                 <br />
-                프리미엄 주거라이프를 <br /> 벤처밸리 푸르지오에서<br />
+                프리미엄 주거라이프를 <br /> 브레인시티비스타동원에서<br />
                 확인하세요
               </div>
             </div>
             <img
               src={section2_Image1}
-              alt="벤처밸리 푸르지오모바일 조감도 이미지"
+              alt="브레인시티비스타동원모바일 조감도 이미지"
               loading="lazy"
               decoding="async"
             />
@@ -717,7 +717,7 @@ const Main = () => {
             <div>
               <img
                 src={section1_Image1}
-                alt="벤처밸리 푸르지오브랜드소개 mobile-image5"
+                alt="브레인시티비스타동원브랜드소개 mobile-image5"
               />
               <Link to="/Brand/intro" className={styles.btn}>
                 브랜드 소개 {">"}
@@ -728,7 +728,7 @@ const Main = () => {
 
           {/* 모바일 방문예약 섹션 */}
           <div className={styles.mobileVisitContainer}>
-            <h2>벤처밸리 푸르지오</h2>
+            <h2>브레인시티비스타동원</h2>
             <p className={styles.mobileSubTitle}>방문예약</p>
             <p className={styles.mobileInfoText}>
               방문예약 등록 시 모델하우스 주소 SMS발송 및<br />
@@ -794,7 +794,7 @@ const Main = () => {
             <div className={styles.section9}>
               <img
                 src={mobilemap1}
-                alt="벤처밸리 푸르지오오시는길안내-mobileimage2"
+                alt="브레인시티비스타동원오시는길안내-mobileimage2"
               />
             </div>
           </div> */}

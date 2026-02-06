@@ -54,7 +54,7 @@ const ComplexGuide3 = () => {
         <title>밴처밸리 푸르지오 - 커뮤니티</title>
         <meta
           name="description"
-          content="대구 동구 신천동 밴처밸리 푸르지오 커뮤니티 시설을 소개합니다. 피트니스센터, 독서실, 카페, 어린이집, 게스트하우스 등 입주민의 생활 품격을 높이는 다양한 편의시설을 만나보세요."
+          content="평택 동구 신천동 밴처밸리 푸르지오 커뮤니티 시설을 소개합니다. 피트니스센터, 독서실, 카페, 어린이집, 게스트하우스 등 입주민의 생활 품격을 높이는 다양한 편의시설을 만나보세요."
         />
         <link rel="canonical" href="https://www.a7lashare.com/ComplexGuide/community" />
         <meta name="robots" content="index,follow" />
@@ -80,10 +80,10 @@ const ComplexGuide3 = () => {
       <MenuBar contents={menuContents} />
       {/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
       <h1 className={styles.screenReaderOnly}>
-        벤처밸리 푸르지오- 커뮤니티
+        브레인시티비스타동원- 커뮤니티
       </h1>
       <p className={styles.screenReaderOnly}>
-        벤처밸리 푸르지오의 커뮤니티 페이지에서는 단지 내 다양한
+        브레인시티비스타동원의 커뮤니티 페이지에서는 단지 내 다양한
         커뮤니티 시설을 소개합니다. 헬스장, 독서실, 카페 등 주민들의 편리한
         생활을 위한 다양한 시설들이 준비되어 있습니다. 이러한 시설들이
         입주민들의 삶의 질을 높이고, 더 나은 공동체 생활을 만들어주는 역할을
@@ -91,7 +91,7 @@ const ComplexGuide3 = () => {
       </p>
 
       <div className={styles.textBox}>
-        <div>벤처밸리 푸르지오가 눈부신 가치 위에</div>
+        <div>브레인시티비스타동원가 눈부신 가치 위에</div>
         <div>새로운 자부심으로 찾아옵니다.</div>
       </div>
 
@@ -99,7 +99,7 @@ const ComplexGuide3 = () => {
       <img
 				className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
 				src={page1}
-				alt="벤처밸리 푸르지오커뮤니티 안내 -image1"
+				alt="브레인시티비스타동원커뮤니티 안내 -image1"
 				onLoad={handleImageLoad}  // 이미지 로드 후 애니메이션 실행
 			/>
 

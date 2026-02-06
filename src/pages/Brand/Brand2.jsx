@@ -45,21 +45,21 @@ const Brand2 = () => {
 	return (
 		<div className={styles.container}>
 			<Helmet>
-			<title>벤처밸리 푸르지오 - 홍보영상</title>
+			<title>브레인시티비스타동원 - 홍보영상</title>
 			<meta
 				name="description"
-				content="대구 동구 신천동 밴처밸리 푸르지오 홍보영상을 통해 세대 설계, 첨단 커뮤니티, 쾌적한 자연환경과 입지 프리미엄을 생생하게 확인하세요."
+				content="평택 동구 신천동 밴처밸리 푸르지오 홍보영상을 통해 세대 설계, 첨단 커뮤니티, 쾌적한 자연환경과 입지 프리미엄을 생생하게 확인하세요."
 			/>
 			<link rel="canonical" href="https://www.a7lashare.com/Brand/video" />
 			<meta name="robots" content="index,follow" />
 
 			{/* Open Graph */}
 			<meta property="og:type" content="video.other" />
-			<meta property="og:site_name" content="벤처밸리 푸르지오" />
-			<meta property="og:title" content="벤처밸리 푸르지오 - 홍보영상" />
+			<meta property="og:site_name" content="브레인시티비스타동원" />
+			<meta property="og:title" content="브레인시티비스타동원 - 홍보영상" />
 			<meta
 				property="og:description"
-				content="밴처밸리 푸르지오 홍보영상: 대구 동구 신천동 입지의 프리미엄, 고급 커뮤니티, 쾌적한 자연환경을 영상으로 확인하세요."
+				content="밴처밸리 푸르지오 홍보영상: 평택 동구 신천동 입지의 프리미엄, 고급 커뮤니티, 쾌적한 자연환경을 영상으로 확인하세요."
 			/>
 			<meta property="og:url" content="https://www.a7lashare.com/Brand/video" />
 			<meta property="og:image" content="https://www.a7lashare.com/img/og/video.jpg" />
@@ -68,10 +68,10 @@ const Brand2 = () => {
 
 			{/* Twitter */}
 			<meta name="twitter:card" content="summary_large_image" />
-			<meta name="twitter:title" content="벤처밸리 푸르지오 - 홍보영상" />
+			<meta name="twitter:title" content="브레인시티비스타동원 - 홍보영상" />
 			<meta
 				name="twitter:description"
-				content="대구 동구 신천동 밴처밸리 푸르지오 홍보영상: 첨단 설계, 프리미엄 입지, 쾌적한 자연환경을 영상으로 만나보세요."
+				content="평택 동구 신천동 밴처밸리 푸르지오 홍보영상: 첨단 설계, 프리미엄 입지, 쾌적한 자연환경을 영상으로 만나보세요."
 			/>
 			<meta name="twitter:image" content="https://www.a7lashare.com/img/og/video.jpg" />
 			<meta name="twitter:url" content="https://www.a7lashare.com/Brand/video" />
@@ -88,12 +88,12 @@ const Brand2 = () => {
 			<MenuBar contents={menuContents} />
 
 						{/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
-						<h1 className={styles.screenReaderOnly}>벤처밸리 푸르지오- 홍보영상</h1>
-						<p className={styles.screenReaderOnly}>벤처밸리 푸르지오의 홍보영상을 통해 단지의 매력적인 디자인과 최신 편의시설을 생생하게 만나보세요. 현대적 감각과 고급스러움을 결합한 주거 환경, 용인의 중심에서 경험할 수 있는 새로운 라이프스타일을 영상으로 확인하세요.
+						<h1 className={styles.screenReaderOnly}>브레인시티비스타동원- 홍보영상</h1>
+						<p className={styles.screenReaderOnly}>브레인시티비스타동원의 홍보영상을 통해 단지의 매력적인 디자인과 최신 편의시설을 생생하게 만나보세요. 현대적 감각과 고급스러움을 결합한 주거 환경, 용인의 중심에서 경험할 수 있는 새로운 라이프스타일을 영상으로 확인하세요.
 						</p>	
 
 			<div className={`${styles.textBox} ${isTextVisible ? styles.active : ''}`}>
-                <div>벤처밸리 푸르지오가 눈부신 가치 위에</div>
+                <div>브레인시티비스타동원가 눈부신 가치 위에</div>
                 <div>새로운 자부심으로 찾아옵니다.</div>
             </div>
 

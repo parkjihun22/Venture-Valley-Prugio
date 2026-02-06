@@ -51,7 +51,7 @@ const Brand1 = () => {
             <title>밴처밸리 푸르지오 - 브랜드 소개</title>
             <meta
                 name="description"
-                content="대구 동구 신천동 밴처밸리 푸르지오의 브랜드 철학과 가치를 소개합니다. 최고 수준의 품질 기준과 첨단 시공 기술, 프리미엄 주거문화로 입주민의 생활 품격을 높입니다."
+                content="평택 동구 신천동 밴처밸리 푸르지오의 브랜드 철학과 가치를 소개합니다. 최고 수준의 품질 기준과 첨단 시공 기술, 프리미엄 주거문화로 입주민의 생활 품격을 높입니다."
             />
             <link rel="canonical" href="https://www.a7lashare.com/Brand/intro" />
             <meta name="robots" content="index,follow" />
@@ -88,15 +88,15 @@ const Brand1 = () => {
 
             <MenuBar contents={menuContents} />
             {/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
-            <h1 className={styles.screenReaderOnly}>벤처밸리 푸르지오- 브랜드소개</h1>
-			<p className={styles.screenReaderOnly}>벤처밸리 푸르지오의 신뢰와 품질을 최우선으로 여기는 브랜드입니다. 최첨단 설계와 고급 자재를 사용하여 입주자에게 최고의 주거 환경을 제공합니다. 지속적인 혁신과 고객 만족을 위한 브랜드 철학을 바탕으로, 미래 지향적인 주택을 제시하는 브랜드 가치를 경험해보세요</p>	
+            <h1 className={styles.screenReaderOnly}>브레인시티비스타동원- 브랜드소개</h1>
+			<p className={styles.screenReaderOnly}>브레인시티비스타동원의 신뢰와 품질을 최우선으로 여기는 브랜드입니다. 최첨단 설계와 고급 자재를 사용하여 입주자에게 최고의 주거 환경을 제공합니다. 지속적인 혁신과 고객 만족을 위한 브랜드 철학을 바탕으로, 미래 지향적인 주택을 제시하는 브랜드 가치를 경험해보세요</p>	
 
             <div className={`${styles.textBox} ${isTextVisible ? styles.active : ''}`}>
                 <div>생활의 모든 것을 한걸음에</div>
-                <div>푸르지오, 대구의 중심에 서다</div>
+                <div>푸르지오, 평택의 중심에 서다</div>
             </div>
 
-            <img className={`${styles.image} ${isImageVisible ? styles.visible : ''}`} src={page1} alt="벤처밸리 푸르지오brand-Image1" />
+            <img className={`${styles.image} ${isImageVisible ? styles.visible : ''}`} src={page1} alt="브레인시티비스타동원brand-Image1" />
 
             <Footer />
         </div>

@@ -49,7 +49,7 @@ const LocationEnvironment1 = () => {
         <title>밴처밸리 푸르지오 - 프리미엄</title>
         <meta
           name="description"
-          content="대구 동구 신천동 밴처밸리 푸르지오 프리미엄을 확인하세요. 동대구역 복합환승센터·도시철도 4호선(트램 예정), 신천 수변공원·수성못, 신설 초·중학교(초품아), 풍부한 생활·문화 인프라의 가치를 안내합니다."
+          content="평택 동구 신천동 밴처밸리 푸르지오 프리미엄을 확인하세요. 평택역 복합환승센터·도시철도 4호선(트램 예정), 신천 수변공원·수성못, 신설 초·중학교(초품아), 풍부한 생활·문화 인프라의 가치를 안내합니다."
         />
         <link rel="canonical" href="https://www.a7lashare.com/LocationEnvironment/primium" />
         <meta name="robots" content="index,follow" />
@@ -63,23 +63,23 @@ const LocationEnvironment1 = () => {
       <MenuBar contents={menuContents} />
       {/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
       <h1 className={styles.screenReaderOnly}>
-        벤처밸리 푸르지오- 프리미엄
+        브레인시티비스타동원- 프리미엄
       </h1>
       <p className={styles.screenReaderOnly}>
-        벤처밸리 푸르지오만의 차별화된 프리미엄을 만나보세요. 고급스러운
+        브레인시티비스타동원만의 차별화된 프리미엄을 만나보세요. 고급스러운
         디자인, 첨단 기술이 결합된 설계, 입주민을 위한 특별한 혜택 등을 통해
         푸르지오만의 독보적인 가치를 제공합니다.
       </p>
 
       <div className={styles.textBox}>
-        <div>동대구의 눈부신 가치 위에</div>
+        <div>평택의 눈부신 가치 위에</div>
         <div>밴처밸리 푸르지오의 새로운 자부심으로 찾아옵니다.</div>
       </div>
 
       <img
         src={page1}
         className={styles.image3}
-        alt="벤처밸리 푸르지오 프리미엄 안내이미지1"
+        alt="브레인시티비스타동원 프리미엄 안내이미지1"
       />
       <Footer />
     </div>

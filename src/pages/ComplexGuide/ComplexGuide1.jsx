@@ -55,7 +55,7 @@ const ComplexGuide1 = () => {
 				<title>밴처밸리 푸르지오 - 단지배치도</title>
 				<meta
 					name="description"
-					content="대구 동구 신천동 밴처밸리 푸르지오 단지배치도를 통해 각 동의 위치, 조경, 커뮤니티 시설 및 주차·동선 설계를 확인하세요. 입주민 생활 편의와 쾌적한 환경을 고려한 최적의 배치를 안내합니다."
+					content="평택 동구 신천동 밴처밸리 푸르지오 단지배치도를 통해 각 동의 위치, 조경, 커뮤니티 시설 및 주차·동선 설계를 확인하세요. 입주민 생활 편의와 쾌적한 환경을 고려한 최적의 배치를 안내합니다."
 				/>
 				<meta name="robots" content="index,follow" />
 				<link rel="canonical" href="https://www.a7lashare.com/ComplexGuide/intro" />
@@ -78,7 +78,7 @@ const ComplexGuide1 = () => {
 				<meta name="twitter:title" content="밴처밸리 푸르지오 - 단지배치도" />
 				<meta
 					name="twitter:description"
-					content="대구 동구 신천동 밴처밸리 푸르지오 단지배치도: 조경·커뮤니티·주차·동선까지 입주민 생활 편의를 고려한 설계를 확인하세요."
+					content="평택 동구 신천동 밴처밸리 푸르지오 단지배치도: 조경·커뮤니티·주차·동선까지 입주민 생활 편의를 고려한 설계를 확인하세요."
 				/>
 				<meta name="twitter:image" content="https://www.a7lashare.com/img/og/place.jpg" />
 				<meta name="twitter:url" content="https://www.a7lashare.com/ComplexGuide/intro" />
@@ -91,7 +91,7 @@ const ComplexGuide1 = () => {
 					"name": "밴처밸리 푸르지오 - 단지배치도",
 					"url": "https://www.a7lashare.com/ComplexGuide/intro",
 					"description":
-						"대구 동구 신천동 밴처밸리 푸르지오 단지배치도: 각 동의 위치, 조경, 커뮤니티 시설, 주차·동선 설계를 확인하세요.",
+						"평택 동구 신천동 밴처밸리 푸르지오 단지배치도: 각 동의 위치, 조경, 커뮤니티 시설, 주차·동선 설계를 확인하세요.",
 					"primaryImageOfPage": {
 						"@type": "ImageObject",
 						"contentUrl": "https://www.a7lashare.com/img/og/place.jpg",
@@ -116,14 +116,14 @@ const ComplexGuide1 = () => {
 			<Bener title="단지안내" />
 			<MenuBar contents={menuContents} />
 			{/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
-            <h1 className={styles.screenReaderOnly}>벤처밸리 푸르지오- 단지배치도</h1>
-			<p className={styles.screenReaderOnly}>단지 배치도 페이지는 벤처밸리 푸르지오의 전체 단지 구성도를 제공합니다. 아파트 단지 내 세대 배치, 공용 시설, 주차 공간 등을 시각적으로 보여주어 입주자들이 공간 배치에 대해 명확하게 이해할 수 있도록 돕습니다. 이 배치도를 통해 단지 내 생활을 더 쉽게 계획할 수 있습니다.
+            <h1 className={styles.screenReaderOnly}>브레인시티비스타동원- 단지배치도</h1>
+			<p className={styles.screenReaderOnly}>단지 배치도 페이지는 브레인시티비스타동원의 전체 단지 구성도를 제공합니다. 아파트 단지 내 세대 배치, 공용 시설, 주차 공간 등을 시각적으로 보여주어 입주자들이 공간 배치에 대해 명확하게 이해할 수 있도록 돕습니다. 이 배치도를 통해 단지 내 생활을 더 쉽게 계획할 수 있습니다.
 			</p>
 
 
 
 			<div className={styles.textBox}>
-				<div>벤처밸리 푸르지오가 눈부신 가치 위에</div>
+				<div>브레인시티비스타동원가 눈부신 가치 위에</div>
 				<div>새로운 자부심으로 찾아옵니다.</div>
 			</div>
 
@@ -131,7 +131,7 @@ const ComplexGuide1 = () => {
 			<img
 				className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
 				src={page1}
-				alt="벤처밸리 푸르지오단지배치도-image1"
+				alt="브레인시티비스타동원단지배치도-image1"
 				onLoad={handleImageLoad}  // 이미지 로드 후 애니메이션 실행
 			/>
 

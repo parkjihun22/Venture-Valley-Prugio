@@ -51,7 +51,7 @@ const Emodel = () => {
           <title>밴처밸리 푸르지오 - E-모델하우스</title>
           <meta
             name="description"
-            content="대구 동구 신천동 밴처밸리 푸르지오 E-모델하우스를 온라인에서 편리하게 둘러보세요. VR 가상 투어와 세대별 평면도, 인테리어까지 실감나게 확인하실 수 있습니다."
+            content="평택 동구 신천동 밴처밸리 푸르지오 E-모델하우스를 온라인에서 편리하게 둘러보세요. VR 가상 투어와 세대별 평면도, 인테리어까지 실감나게 확인하실 수 있습니다."
           />
           <meta name="robots" content="index,follow" />
           <link rel="canonical" href="https://www.a7lashare.com/FloorPlan/Emodel" />
@@ -62,7 +62,7 @@ const Emodel = () => {
           <meta property="og:title" content="밴처밸리 푸르지오 - E-모델하우스" />
           <meta
             property="og:description"
-            content="대구 동구 신천동 밴처밸리 푸르지오 E-모델하우스를 온라인에서 둘러보세요. VR 투어와 세대별 평면도를 통해 실제와 같은 공간을 체험할 수 있습니다."
+            content="평택 동구 신천동 밴처밸리 푸르지오 E-모델하우스를 온라인에서 둘러보세요. VR 투어와 세대별 평면도를 통해 실제와 같은 공간을 체험할 수 있습니다."
           />
           <meta property="og:url" content="https://www.a7lashare.com/FloorPlan/Emodel" />
           <meta property="og:image" content="https://www.a7lashare.com/img/og/emodel.jpg" />
@@ -87,7 +87,7 @@ const Emodel = () => {
               "name": "밴처밸리 푸르지오 - E-모델하우스",
               "url": "https://www.a7lashare.com/FloorPlan/Emodel",
               "description":
-                "대구 동구 신천동 밴처밸리 푸르지오 E-모델하우스를 온라인에서 편리하게 둘러보세요. VR 가상 투어와 세대별 평면도를 확인할 수 있습니다.",
+                "평택 동구 신천동 밴처밸리 푸르지오 E-모델하우스를 온라인에서 편리하게 둘러보세요. VR 가상 투어와 세대별 평면도를 확인할 수 있습니다.",
               "primaryImageOfPage": {
                 "@type": "ImageObject",
                 "contentUrl": "https://www.a7lashare.com/img/og/emodel.jpg",
@@ -112,7 +112,7 @@ const Emodel = () => {
       <Bener title="E-모델하우스" />
       <MenuBar contents={menuContents} />
 
-      <h1 className={styles.screenReaderOnly}>벤처밸리 푸르지오- E-모델하우스</h1>
+      <h1 className={styles.screenReaderOnly}>브레인시티비스타동원- E-모델하우스</h1>
 
       <div className={styles.tabMenu}>
         {menuContents.slice(0, 5).map((tab, idx) => (

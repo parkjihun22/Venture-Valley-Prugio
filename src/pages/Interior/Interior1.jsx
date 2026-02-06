@@ -65,7 +65,7 @@ const Interior1 = () => {
       {/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
 
       <div className={styles.textBox}>
-        <div>벤처밸리 푸르지오가 눈부신 가치 위에</div>
+        <div>브레인시티비스타동원가 눈부신 가치 위에</div>
         <div>새로운 자부심으로 찾아옵니다.</div>
       </div>
 
@@ -73,7 +73,7 @@ const Interior1 = () => {
       {/* <img
 				className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
 				src={page1}
-				alt="벤처밸리 푸르지오인테리어 안내 이미지1"
+				alt="브레인시티비스타동원인테리어 안내 이미지1"
 				onLoad={handleImageLoad}  // 이미지 로드 후 애니메이션 실행
 			/> */}
       <Ready/>

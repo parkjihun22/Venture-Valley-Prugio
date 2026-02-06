@@ -59,12 +59,12 @@ const FloorPlan6 = () => {
 			<Header isChanged={isScroll} />
 			<FixIcon />
 
-			<Bener title="벤처밸리 푸르지오119B 평면image" />
+			<Bener title="브레인시티비스타동원119B 평면image" />
 
 			<MenuBar contents={menuContents} />
 
 			<div className={styles.textBox}>
-				<div>대구의 눈부신 가치 위에</div>
+				<div>평택의 눈부신 가치 위에</div>
 				<div>푸르지오의 새로운 자부심으로 찾아옵니다.</div>
 			</div>
 

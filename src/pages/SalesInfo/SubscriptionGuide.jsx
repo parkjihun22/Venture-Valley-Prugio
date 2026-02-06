@@ -57,7 +57,7 @@ const ComplexGuide1 = () => {
           <title>밴처밸리 푸르지오 - 오피스텔분양광고</title>
           <meta
             name="description"
-            content="대구 동구 신천동 밴처밸리 푸르지오 청약방법을 확인하세요. 청약 자격, 신청 절차, 준비서류 및 유의사항을 상세히 안내합니다."
+            content="평택 동구 신천동 밴처밸리 푸르지오 청약방법을 확인하세요. 청약 자격, 신청 절차, 준비서류 및 유의사항을 상세히 안내합니다."
           />
           <link
             rel="canonical"
@@ -75,17 +75,17 @@ const ComplexGuide1 = () => {
       <MenuBar contents={menuContents} />
       {/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
       <h1 className={styles.screenReaderOnly}>
-        벤처밸리 푸르지오- 오피스텔 분양광고
+        브레인시티비스타동원- 오피스텔 분양광고
       </h1>
       <p className={styles.screenReaderOnly}>
-        벤처밸리 푸르지오 분양 전 필수 오피스텔 분양광고를 확인하세요. 청약
+        브레인시티비스타동원 분양 전 필수 오피스텔 분양광고를 확인하세요. 청약
         자격, 서류 준비, 일정 등 분양 절차에서 놓치지 말아야 할 중요한 사항들을
         정리해두었습니다. 정확한 정보와 절차를 통해 분양을 성공적으로 진행할 수
         있도록 돕습니다.
       </p>
 
       <div className={styles.textBox}>
-        <div>벤처밸리 푸르지오가 눈부신 가치 위에</div>
+        <div>브레인시티비스타동원가 눈부신 가치 위에</div>
         <div>새로운 자부심으로 찾아옵니다.</div>
       </div>
 
@@ -93,7 +93,7 @@ const ComplexGuide1 = () => {
       {/* <img
         className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
         src={page1}
-        alt="벤처밸리 푸르지오청약제도 변경안내 이미지1"
+        alt="브레인시티비스타동원청약제도 변경안내 이미지1"
         onLoad={handleImageLoad}  // 이미지 로드 후 애니메이션 실행
       /> */}
 

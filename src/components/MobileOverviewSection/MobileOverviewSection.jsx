@@ -28,7 +28,7 @@ const items = [
         </li>
         <li>
           <strong>대지위치</strong>
-          <span>대구광역시 동구 신천동 311-4 일원</span>
+          <span>평택광역시 동구 신천동 311-4 일원</span>
         </li>
         <li>
           <strong>건축규모</strong>
@@ -71,7 +71,7 @@ const items = [
         <div className={styles.premiumIntro}>
           <h3 className={styles.premiumTitle}>GREAT PREMIUM</h3>
           <p className={styles.premiumSubtitle}>
-            동대구역 인접과 수성 생활권을 누리는<br />
+            평택역 인접과 수성 생활권을 누리는<br />
             밴처밸리 푸르지오 프리미엄 라이프
           </p>
         </div>
@@ -85,21 +85,21 @@ function PremiumSlider() {
   const slides = [
     {
       img: slide1,
-      title: "동대구역·트램 호재, 미래가치 프리미엄",
+      title: "평택역·트램 호재, 미래가치 프리미엄",
       desc:
-        "도시철도 4호선(트램·예정) 개통 예정<br/>동대구역 복합환승센터 인접<br/>수성 생활권 공유로 풍부한 생활·문화 인프라",
+        "도시철도 4호선(트램·예정) 개통 예정<br/>평택역 복합환승센터 인접<br/>수성 생활권 공유로 풍부한 생활·문화 인프라",
     },
     {
       img: slide2,
       title: "의료·생활 인프라 초근접 프리미엄",
       desc:
-        "대구파티마병원, 동대구로 의료기관 접근성 우수<br/>쇼핑·문화시설 풍부<br/>생활 인프라 완비",
+        "평택파티마병원, 평택로 의료기관 접근성 우수<br/>쇼핑·문화시설 풍부<br/>생활 인프라 완비",
     },
     {
       img: slide3,
       title: "광역 교통망 프리미엄",
       desc:
-        "동대구역(KTX·SRT) 도보권<br/>대구 도시철도 1호선·4호선(예정) 연계<br/>도시·광역 교통망으로 뛰어난 접근성",
+        "평택역(KTX·SRT) 도보권<br/>평택 도시철도 1호선·4호선(예정) 연계<br/>도시·광역 교통망으로 뛰어난 접근성",
     },
     {
       img: slide4,

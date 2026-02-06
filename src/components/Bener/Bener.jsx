@@ -20,7 +20,7 @@ const Bener = ({ title }) => {
             <img
                 className={`${styles.benerImage} ${isLoaded ? styles.showImage : ''}`}
                 src={img}
-                alt="벤처밸리 푸르지오-benerimage"
+                alt="브레인시티비스타동원-benerimage"
             />
             <div className={styles.overlay}></div>
             <div
@@ -47,7 +47,7 @@ const contents = (text, isLoaded) => {
                     하루의 무게를 내려놓는 순간, 본연으로 돌아가는 프리미엄.
                 </div>
                 <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
-                    대구 동구 신천동, 동대구역 인접의 새로운 주거 기준.
+                    평택 동구 신천동, 평택역 인접의 새로운 주거 기준.
                 </div>
                 <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
                     NO.1 브랜드, 밴처밸리 푸르지오와 함께합니다.
@@ -61,7 +61,7 @@ const contents = (text, isLoaded) => {
                     신천동의 새 출발, 밴처밸리 푸르지오.
                 </div>
                 <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
-                    동대구역, 4호선 트램(예정) 교통망으로 더 가까워지는 생활권.
+                    평택역, 4호선 트램(예정) 교통망으로 더 가까워지는 생활권.
                 </div>
                 <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
                     브랜드 명성과 함께 높여가는 일상의 가치.
@@ -92,7 +92,7 @@ const contents = (text, isLoaded) => {
                     편리한 생활을 위한 최적의 공간 설계.
                 </div>
                 <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
-                    밴처밸리 푸르지오, 대구 동구 신천동 핵심 입지에서 찾아옵니다.
+                    밴처밸리 푸르지오, 평택 동구 신천동 핵심 입지에서 찾아옵니다.
                 </div>
             </>
         );

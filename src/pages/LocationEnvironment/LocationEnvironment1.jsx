@@ -22,21 +22,21 @@ import HelmetCOM from "../../components/HelmetCOM/HelmetCOM";
 const LocationSection = [
   {
     img: section2Image1,
-    titleText: "동대구역 개발호재 중심지<br />탄탄한 미래가치 입지",
+    titleText: "평택역 개발호재 중심지<br />탄탄한 미래가치 입지",
     contentText:
-      "동대구역 복합환승센터 인접, 도시철도 4호선(트램·예정) 개통 예정<br />신규 교통·생활 인프라 확충으로 미래가치 기대",
+      "평택역 복합환승센터 인접, 도시철도 4호선(트램·예정) 개통 예정<br />신규 교통·생활 인프라 확충으로 미래가치 기대",
   },
   {
     img: section2Image2,
     titleText: "의료 인프라 프리미엄<br />건강케어 중심 입지",
     contentText:
-      "대구파티마병원, 동대구로 의료기관 등 종합병원 인접<br />다양한 전문의료기관과 건강검진센터로 편리한 의료 접근성",
+      "평택파티마병원, 평택로 의료기관 등 종합병원 인접<br />다양한 전문의료기관과 건강검진센터로 편리한 의료 접근성",
   },
   {
     img: section2Image3,
-    titleText: "동대구역 + 도시철도 4호선(트램)<br />뛰어난 광역접근성",
+    titleText: "평택역 + 도시철도 4호선(트램)<br />뛰어난 광역접근성",
     contentText:
-      "동대구역(KTX·SRT) 도보권, 도시철도 1·4호선 연계<br />세종·부산·서울 등 전국 주요도시 빠른 연결",
+      "평택역(KTX·SRT) 도보권, 도시철도 1·4호선 연계<br />세종·부산·서울 등 전국 주요도시 빠른 연결",
   },
   {
     img: section2Image4,
@@ -96,7 +96,7 @@ const LocationEnvironment1 = () => {
         <title>밴처밸리 푸르지오 - 입지환경</title>
         <meta
           name="description"
-          content="대구 동구 신천동 핵심 입지, 밴처밸리 푸르지오의 입지환경을 확인하세요. 동대구역 복합환승센터·도시철도 4호선(트램 예정), 신설 학교, 신천 수변공원·수성못 등 쾌적한 자연환경과 생활 인프라."
+          content="평택 동구 신천동 핵심 입지, 밴처밸리 푸르지오의 입지환경을 확인하세요. 평택역 복합환승센터·도시철도 4호선(트램 예정), 신설 학교, 신천 수변공원·수성못 등 쾌적한 자연환경과 생활 인프라."
         />
         <meta name="robots" content="index,follow" />
         <link rel="canonical" href="https://www.a7lashare.com/LocationEnvironment/intro" />
@@ -107,7 +107,7 @@ const LocationEnvironment1 = () => {
         <meta property="og:title" content="밴처밸리 푸르지오 - 입지환경" />
         <meta
           property="og:description"
-          content="대구 동구 신천동 핵심 입지, 밴처밸리 푸르지오의 입지환경을 확인하세요. 동대구역·도시철도 4호선(트램 예정), 신설 학교, 신천 수변공원·수성못 등 생활 인프라와 자연환경을 누리는 핵심 입지."
+          content="평택 동구 신천동 핵심 입지, 밴처밸리 푸르지오의 입지환경을 확인하세요. 평택역·도시철도 4호선(트램 예정), 신설 학교, 신천 수변공원·수성못 등 생활 인프라와 자연환경을 누리는 핵심 입지."
         />
         <meta property="og:url" content="https://www.a7lashare.com/LocationEnvironment/intro" />
         <meta property="og:image" content="https://www.a7lashare.com/img/og/location.jpg" />
@@ -119,7 +119,7 @@ const LocationEnvironment1 = () => {
         <meta name="twitter:title" content="밴처밸리 푸르지오 - 입지환경" />
         <meta
           name="twitter:description"
-          content="대구 동구 신천동 핵심 입지, 동대구역 복합환승센터·도시철도 4호선(트램 예정) 교통망, 신설 학교, 신천 수변공원·수성못 인접으로 생활과 자연을 동시에 누리는 입지환경."
+          content="평택 동구 신천동 핵심 입지, 평택역 복합환승센터·도시철도 4호선(트램 예정) 교통망, 신설 학교, 신천 수변공원·수성못 인접으로 생활과 자연을 동시에 누리는 입지환경."
         />
         <meta name="twitter:image" content="https://www.a7lashare.com/img/og/location.jpg" />
         <meta name="twitter:url" content="https://www.a7lashare.com/LocationEnvironment/intro" />
@@ -132,7 +132,7 @@ const LocationEnvironment1 = () => {
             "name": "밴처밸리 푸르지오 - 입지환경",
             "url": "https://www.a7lashare.com/LocationEnvironment/intro",
             "description":
-              "대구 동구 신천동 핵심 입지, 동대구역 복합환승센터·도시철도 4호선(트램 예정) 교통망, 신설 학교, 신천 수변공원·수성못 등 생활 인프라와 쾌적한 자연환경을 갖춘 밴처밸리 푸르지오 입지환경.",
+              "평택 동구 신천동 핵심 입지, 평택역 복합환승센터·도시철도 4호선(트램 예정) 교통망, 신설 학교, 신천 수변공원·수성못 등 생활 인프라와 쾌적한 자연환경을 갖춘 밴처밸리 푸르지오 입지환경.",
             "primaryImageOfPage": {
               "@type": "ImageObject",
               "contentUrl": "https://www.a7lashare.com/img/og/location.jpg",
@@ -159,10 +159,10 @@ const LocationEnvironment1 = () => {
       <MenuBar contents={menuContents} />
       {/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
       <h1 className={styles.screenReaderOnly}>
-        벤처밸리 푸르지오- 입지안내
+        브레인시티비스타동원- 입지안내
       </h1>
       <p className={styles.screenReaderOnly}>
-        벤처밸리 푸르지오의 입지 정보를 확인하세요. 뛰어난 교통망, 생활
+        브레인시티비스타동원의 입지 정보를 확인하세요. 뛰어난 교통망, 생활
         인프라, 교육 및 쇼핑 시설 등 편리한 주변 환경을 소개하며, 대전의
         중심에서 누릴 수 있는 생활의 편리함과 가치를 제공합니다
       </p>
@@ -178,7 +178,7 @@ const LocationEnvironment1 = () => {
       <img
         src={page1}
         className={styles.image2}
-        alt="벤처밸리 푸르지오입지환경-image1"
+        alt="브레인시티비스타동원입지환경-image1"
       />
 
       <div className={styles.section2}>
@@ -193,7 +193,7 @@ const LocationEnvironment1 = () => {
 
       <div className={styles.commonBox}>
         <div className={styles.notice}>
-          ※본 홍보물의 내용과 지역도는 소비자의 이해를 돕기 위한 것으로, 개발 예정•계획 및 교통, 학교 계획 등에 관한 사항은 해당 기관의 아래 자료를 토대로 제작되었습니다. 사업계획 및 일정은 개발계획별 사업주체에 의해 변경될 수 있으며, 벤처밸리 푸르지오사업주체 및 시공사와 무관합니다.
+          ※본 홍보물의 내용과 지역도는 소비자의 이해를 돕기 위한 것으로, 개발 예정•계획 및 교통, 학교 계획 등에 관한 사항은 해당 기관의 아래 자료를 토대로 제작되었습니다. 사업계획 및 일정은 개발계획별 사업주체에 의해 변경될 수 있으며, 브레인시티비스타동원사업주체 및 시공사와 무관합니다.
         </div>
       </div>
 

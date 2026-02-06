@@ -56,7 +56,7 @@ const ComplexGuide1 = () => {
         <title>밴처밸리 푸르지오 -오피스텔분양광고</title>
         <meta
           name="description"
-          content="대구 동구 신천동 밴처밸리 푸르지오 분양계약 시 필요한 오피스텔 분양 광고를 한눈에 확인하세요."
+          content="평택 동구 신천동 밴처밸리 푸르지오 분양계약 시 필요한 오피스텔 분양 광고를 한눈에 확인하세요."
         />
         <link
           rel="canonical"
@@ -74,11 +74,11 @@ const ComplexGuide1 = () => {
       <MenuBar contents={menuContents} />
       {/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
       <h1 className={styles.screenReaderOnly}>
-        벤처밸리 푸르지오- 오피스텔분양광고
+        브레인시티비스타동원- 오피스텔분양광고
       </h1>
 
       <p className={styles.screenReaderOnly}>
-        벤처밸리 푸르지오의 오피스텔분양광고 안내 페이지는 분양과 관련된 세금
+        브레인시티비스타동원의 오피스텔분양광고 안내 페이지는 분양과 관련된 세금
         정보를 제공합니다.오피스텔분양광고는 계약서 작성 시 부과되는 세금으로, 이를
         사전에 파악하고 준비하는 것이 중요합니다. 이 페이지에서는오피스텔분양광고의 계산
         방법, 세액, 납부 절차 등을 쉽게 설명하여 고객들이 정확하게 준비할 수
@@ -87,14 +87,14 @@ const ComplexGuide1 = () => {
 
       <div className={styles.textBox}>
         <div>인터넷 청약하는 방법을 확인하세요</div>
-        <div>소수만 누리는 프리미엄 벤처밸리 푸르지오</div>
+        <div>소수만 누리는 프리미엄 브레인시티비스타동원</div>
       </div>
 
       {/* 이미지에 애니메이션 효과 추가 */}
       {/* <img
         className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
         src={page1}
-        alt="벤처밸리 푸르지오오피스텔부-image1"
+        alt="브레인시티비스타동원오피스텔부-image1"
         onLoad={handleImageLoad}  // 이
         // 미지 로드 후 애니메이션 실행
       /> */}
